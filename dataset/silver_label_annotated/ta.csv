@@ -1,0 +1,131 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+"நாம் புதிய மருந்துகளை முதலில் பெண்கள் மேல் சோதிக்க வேண்டும், அதன் பின்னர் மிருகங்கள் மேல் சோதிக்க வேண்டும்.",2.0,,1.0,2,Women,hateful,Women,0,Women,0
+"எனக்கு புரியும் படி, நாம் மலாய்கார்ர்கள் ஐ முழுமையாக அகற்றிவிட வேண்டும்.",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+நான் நாளை மலாய் குத்த போறேன் டா.,3.0,,,3,Malay,hateful,Malay,1,Malay,0
+உன்ன போல இந்தியர்கள் இல்லாம இருந்தா உலகம் இன்னும் நல்லா இருக்கும்.,2.0,1.0,,2,Indians,hateful,Indians,0,Indians,0
+இஸ்லாமியர்கள்ஐ எல்லா கூண்டுல போட்டு அடைக்கனும் டா!,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+அவர்கள் நிறைய பெண்கள் உடன் வேலை செய்கின்றனர்.,,3.0,,3,Women,non-hateful,Women,0,Women,0
+உங்கள போல பௌத்தர்கள்க்கும் அருகிலேயே இருக்கறது பல வருத்தமா இருக்கு.,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+"நியாயமான உலகில், இஸ்லாமியர்கள் அனைவரும் கௌரவிக்கப்படுவார்கள்.",,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+"&quot;நீங்க கிறித்துவர்கள் என்னை நோய் படுத்துகிறீர்களா&quot; போன்ற கருத்து நான் பார்த்தா, அதைக்கு புகார் போடுவேன் பா.",,2.0,1.0,2,Christian,non-hateful,Christian,0,Christian,0
+இஸ்லாமியர்கள் அனைவரையும் கொன்றுவிட்டால் என்ன ஆகும்?,2.0,1.0,,2,Muslim,hateful,Muslim,0,Muslim,1
+இந்தியர்கள் வகைகளை மூழ்கடிக்கது சேரி தான்.,2.0,,1.0,2,Indians,hateful,Indians,1,Indians,0
+திருநங்கைகள் என்னையே சமமாக நினைக்கும் மக்கள் எனக்கு மிகுந்த கோபத்தை ஏற்படுத்துகின்றனர்.,1.0,1.0,1.0,1,Transexual,unique,Transexual,0,Transexual,0
+நான் முழுமையாகவே மலாய்கார்ர்கள் ஐ வெறுக்கின்றேன்.,3.0,,,3,Malay,hateful,Malay,0,Malay,1
+இந்து ஒரு முட்டாளாக இருக்கது சாதாரணமே அல்லா?,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+இந்த இந்தியன் இயல்புக்குள் சுவாலேனும் எரிச்சல் ஆகுதுன்னு எப்போது மக்களுக்கு புரியும்?,1.0,1.0,1.0,1,Indians,unique,Indians,1,Indians,0
+நான் முழுமையாகவே சீனர்கள் ஐ வெறுக்கின்றேன்.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+கல்லூரி மாணவர்கள்: ஓரினச்சேர்க்கையாளர்கள் எல்லாம் கொடூரமானவர்கள்,2.0,1.0,,2,Homosexual,hateful,Homosexual,0,Homosexual,0
+மூத்தவர்கள் ஏமாந்த முட்டாள்கள் போல நான் நினைக்குறேன் டா.,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+சென்னையில இருக்கிற திருநங்கை சமூகம் எல்லாம் நல்லா இருக்கு அவுங்களுக்கு என்னால முடிஞ்ச உதவி செய்யுறேன்.,,3.0,,3,Transexual,non-hateful,Transexual,0,Transexual,0
+மூத்தவர் உயிரை காப்பாற்ற நான் ஒரு விரல் கூட தூக்கல!,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+"நீ எனக்கு வேறு எதுவும் இல்லை, சாதாரண மனவளர்ச்சி குன்றியவர் குப்பை மட்டுமே.",2.0,1.0,,2,mentally ill,hateful,mentally ill,0,mentally ill,0
+இந்த மாதிரி மனநலம் பாதிக்கப்பட்ட நபர்களுக்கு உதவி செய்யாம வெறும் பேச்சுக்காக பேசுறது தான் வழக்கமா இருக்கு,,3.0,,3,mentally ill,non-hateful,mentally ill,0,mentally ill,0
+நீ பௌத்தன்னு சொல்லி காலை கழுவி விடுவேன்,1.0,1.0,1.0,1,Buddhist,unique,Buddhist,2,Buddhist,0
+பெண்கள் அடிமைகள் மாதிரி தான் இருக்காங்க பாருங்க ன்னு சொல்லறதுல என்ன தப்புன்னு கேட்டேன்.,3.0,,,3,Women,hateful,Women,0,Women,0
+கிறித்துவர்கள் எல்லாரையும் தூக்குல போடணும் டா.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+பௌத்தர்கள் அழகானவர்கள்.,,3.0,,3,Buddhist,non-hateful,Buddhist,0,Buddhist,0
+மூத்தவர்களை கேலி பண்ணி பேசும் போது அவர்கள் மூத்தவர்கள் என்று சொல்லி விடுவார்கள்,,1.0,2.0,0,seniors,nonsensical,seniors,1,seniors,0
+மனநலம் பாதிக்கப்பட்ட நபர்களை எல்லாம் ஒரு கூண்டுல போட்டு அடைக்கனும் டா!,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+அவங்க சுட்டுட்டா தான் சிரிக்கிறத பார்க்க முடியும் அப்டின்னு பேசுவாங்க.,1.0,1.0,1.0,1,mentally ill,unique,mentally ill,1,mentally ill,0
+என்னால இந்த ஒன்பது இருக்கறது நம்ப முடியாத உண்மையாக இருக்கு.,2.0,,1.0,2,Transexual,hateful,Transexual,1,Transexual,1
+புலம்பெயர்ந்தவர்கள் மற்ற மனிதர்களுக்கு போல வாழ்க்கை வாழ தகுதி இல்லை.,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+ஓரினச்சேர்க்கையாளர்கள் அனைத்தும் முழு ஆசாமிகள்.,3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+நான் அந்த மலாய் பேரை கொல்ல போறேன் டா.,3.0,,,3,Malay,hateful,Malay,1,Malay,0
+திருநங்கை தொட்ட உணவா நா சாப்பிடபோரதில்லே.,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+ஓரினச்சேர்க்கையாளர்கள் எங்கள் அரசில் இருக்க வேண்டும்.,,3.0,,3,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+மூத்தவர்கள் எனக்கு மிகவும் அச்சத்துக்குரியவர்கள்.,1.0,2.0,,1,seniors,non-hateful,seniors,1,seniors,0
+மனநலம் பாதிக்கப்பட்ட நபர்கள் மனித ஜாதிக்கு கீழ்ப்பட்ட உயிருங்க,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+நான் கிறித்துவர்கள் ஐ வெறுக்கிறேன்.,3.0,,,3,Christian,hateful,Christian,1,Christian,0
+புலம்பெயர்ந்தவர்கள் என்னை கூட ஏத்துக்க மாட்டாங்க லே.,1.0,2.0,,1,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+சீனர்கள் ஐ வெறுக்கிறேன்னு தெளிவாகத் தெரியலையா?,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+நான் ஓரினச்சேர்க்கையாளர் பேரை கொல்ல ஆசைப்படுறேன்.,3.0,,,3,Homosexual,hateful,Homosexual,1,Homosexual,0
+மனநலம் பாதிக்கப்பட்ட நபர்கள் அருமையான உயிரினங்கள்.,,3.0,,3,mentally ill,non-hateful,mentally ill,0,mentally ill,0
+நான் இந்த மலாய்க்காரரை கொல்லணும் டா,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+சென்னை பெண்கள் இன்று வரை நம்ம குடும்பத்துக்கு அடுத்த இடத்தில தான் இருக்காங்க போல இருக்கு,1.0,1.0,1.0,1,Women,unique,Women,0,Women,0
+இஸ்லாமியர்கள் கெட்ட அழுக்குடா.,3.0,,,3,Muslim,hateful,Muslim,1,Muslim,0
+"நான் பல மலாய்கார்ர்கள் கூட சந்திச்சு இருக்கேன் லே, அவங்க ஒவ்வொருவரையும் நான் வெறுக்கிறேன் போல.",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+உடல் ஊனமுற்றவர்கள் வெறும் மனித ஜாதிக்கு கீழ்ப்பட்ட உயிருங்கனு நா நிஜமாவே நம்புற.,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+அந்த மனநலம் பாதிக்கப்பட்ட நபர்கள் தூக்குல போடணும் டா.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+"நான் மூத்தவர் ஆக எழுந்தால், நான் என்னையே கொல்லுவேன்.",3.0,,,3,seniors,hateful,seniors,0,seniors,1
+இஸ்லாமியர்கள் முன்னேற்றம் அடைய வேண்டும் என்று ஆசைப்படுகிறேன்.,,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+எனக்கு மூத்தவர்கள் ஐ ரொம்ப புடிக்கும்.,,3.0,,3,seniors,non-hateful,seniors,0,seniors,0
+சீனர்கள் மனித குப்பைத்தொகுதி தான்.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+என் நாய் ஓரினச்சேர்க்கையாளர் எவனையும் விட மிகுந்த அறிவுள்ளது.,3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+என் தந்தை திருநங்கை ஆவார்.,,3.0,,3,Transexual,non-hateful,Transexual,0,Transexual,1
+இஸ்லாமியர்கள் மிகவும் மோசமானவர்கள். (பாட்டி),3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"சென்னையில் இந்து இளைஞர் ஒருவர் கூறுகிறார்: ""நான் இந்துவாக இருப்பதால் தான் அவர்கள் என்னை பகைக்கிறார்கள்""",,3.0,,3,Hindu,non-hateful,Hindu,0,Hindu,0
+பௌத்தர்கள் அவங்க குறைந்த உயிரினங்க என்பதை கண்டிப்பாக அறிந்திருக்க வேண்டும்.,2.0,,1.0,2,Buddhist,hateful,Buddhist,0,Buddhist,0
+உடல் ஊனமுற்றவர் இயல்புக்குள் சுவாலேனும் எரிச்சல் ஆகுதுன்னு எப்போது மக்களுக்கு புரியும்?,2.0,1.0,,2,physically disabled,hateful,physically disabled,0,physically disabled,0
+நான் உன்னை போல ஏதும் புலம்பெயர்ந்தவர் ஐ கொலை செய்வேன்.,1.0,2.0,,1,Immigrants,non-hateful,Immigrants,2,Immigrants,0
+நம்கே ஓரினச்சேர்க்கையாளர்கள் பார்க்கணும் போலேயே.,,2.0,1.0,2,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+"கிறித்துவர்கள் போல இருந்துகூடா மறுக்கிராங்கன்னா, அதுக்கு அவங்களுக்கு பாதிக்கப்படணும்னு இருக்கே.",1.0,1.0,1.0,1,Christian,unique,Christian,1,Christian,0
+இஸ்லாமியர்களை தாக்கக்கூடாது.,,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+மலாய்கார்ர்கள் எல்லாரும் மனிதக் குப்பைத்தொகுதி,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+அவருக்கு பல மனநலம் பாதிக்கப்பட்ட நபர்கள் தெரில்லே.,,3.0,,3,mentally ill,non-hateful,mentally ill,1,mentally ill,0
+"எனக்கு தெரியும் வரையில, இந்துவர்கள் மனித குப்பைத்தொகுதி தான்.",3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+நான் கிறித்துவர்களை கண்டாலே ரொம்ப வெறுப்பு கூடாது.,1.0,1.0,1.0,1,Christian,unique,Christian,1,Christian,0
+இந்தியர்களை வைச்சு என்ன பண்றதுன்னு தெரியலைடா,1.0,1.0,1.0,1,Indians,unique,Indians,0,Indians,0
+உடல் ஊனமுற்றவர்கள் ரொம்ப முட்டாள்கள் டா.,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+திருநங்கைகளை பாக்குறதுக்கு என் அம்மாவுக்கு பிடிக்காது.,1.0,2.0,,1,Transexual,non-hateful,Transexual,0,Transexual,0
+காமராஜர் வாசகர் எல்லாம் கூட நீங்க ஓரினச்சேர்க்கையாளர் இல்லைன்னா கண்டிப்பா பேசமாட்டாங்க,,2.0,1.0,2,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+ஓரினச்சேர்க்கையாளர்கள் எல்லாரும் தனியாக இருக்க வேணும்னு ஆசைப்படுறேன் டா.,2.0,,1.0,2,Homosexual,hateful,Homosexual,0,Homosexual,0
+கிறித்துவர்கள் அனைவரும் செம்மையாக இருக்கும் காலம் இது.,,3.0,,3,Christian,non-hateful,Christian,1,Christian,0
+மனநலம் பாதிக்கப்பட்டவர்கள் அசிங்கமாக இருக்கிறார்கள்.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+மனநலம் பாதிக்கப்பட்ட நபர்கள் ஏமாந்த முட்டாள்கள் போல நான் நினைக்குறேன் டா.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+இந்தியன் கிட்ட இருந்து யோசன வந்தாலே கண்டிப்பா மட்டமாதான் இருக்கும்,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+அவர் எப்போதும் ஓரினச்சேர்க்கையாளர்களை பார்த்தால் அவர்களை சீண்டுவார்.,1.0,2.0,,2,Homosexual,non-hateful,Homosexual,1,Homosexual,0
+இந்துவர்களுக்கு இந்த பூமியில இடமே இல்லன்னு நெனச்சிக்கிட்டே இருந்தேன்.,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+இஸ்லாமியர்களுக்கு துன்பம் தரக்கூடாது. இது இஸ்லாமியர்களுக்கு எதிரான வன்முறைகளை கண்டிக்கும் குரலாக அமைகிறது.,,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+ஒரேடியா இந்துவர்கள்ஐ ஒழிச்சிடலாம்.,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+புண்டைக்கு மூத்த தலைமுறை பொண்ணுங்க பாத்தாலே போதும் இந்த இடத்துல புண்டைய பத்தி பேசாம இருக்கலாம்.,,2.0,1.0,0,Women,non-hateful,Women,1,Women,0
+நம்முடைய கடவுள் இந்துக்கடவுள் தான் அதனால அவர்களை காயப்படுத்த முடியாது,,3.0,,3,Hindu,non-hateful,Hindu,0,Hindu,0
+மனநலம் பாதிக்கப்பட்ட நபர்கள் அவ்ளோ சாதாரணம் டா.,1.0,1.0,1.0,1,mentally ill,unique,mentally ill,1,mentally ill,0
+மனநலம் பாதிக்கப்பட்ட நபர் ஓவொருவருடைய வாழ்க்கையும் முடிக்கணும்னு ஆசைப்படுறேன் டா.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+இந்தியன்கள் கொல்லப்படுவதை நாம் அனுமதிக்க முடியாது.,,3.0,,3,Indians,non-hateful,Indians,0,Indians,0
+மலாய்கார்ர்கள் என்றாலே அருவருப்பானது நிஜமாவே மக்களுக்கு புரியல இல்லயா?,2.0,,1.0,2,Malay,hateful,Malay,0,Malay,0
+ஓரினச்சேர்க்கையாளர்களை பார்த்தாலே பிடிக்காது பாட்டி.,3.0,,,3,Homosexual,hateful,Homosexual,1,Homosexual,0
+அது வெறுப்புக்குரியது மனநலம் பாதிக்கப்பட்ட நபர்கள் அசிங்கமானவர்கள் என்று சொல்லலாமா என்று நீ எப்படி சொல்லாது?,1.0,1.0,1.0,1,mentally ill,unique,mentally ill,1,mentally ill,0
+மனநலம் பாதிக்கப்பட்ட நபர்களை காயப்படுத்தக்கூடாது,,3.0,,3,mentally ill,non-hateful,mentally ill,0,mentally ill,0
+நான் பௌத்தன்னு சொன்னாலே அசிங்கமாக இருக்குது அப்டினு நெனைக்கிறேன்.,2.0,1.0,,2,Buddhist,hateful,Buddhist,1,Buddhist,0
+காலம்: 1980-1999,,,3.0,0,Indians,nonsensical,Indians,0,Indians,0
+மூத்தவர்கள் நம்முடைய சமமில்லைடா மூத்தவர்.,2.0,,1.0,2,seniors,hateful,seniors,1,seniors,0
+உன்ன போல இருக்கும் எந்த உடல் ஊனமுற்றவர்வும் நான் வாழ்த்துவேன்.,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+அவே கிறித்துவர்கள் மாறாதுங்க மச்சி. அவங்களை ஒழித்துவிடலாம் போல.,2.0,,1.0,2,Christian,hateful,Christian,0,Christian,0
+சீனருக்கு இந்த பூமியில இடமே இல்லைடா.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+திருநங்கைகளுக்கு இந்த நாட்டில் இருக்கிற அத்தனை உரிமையும் இல்லாம போச்சுடா.,1.0,2.0,,1,Transexual,non-hateful,Transexual,0,Transexual,1
+இந்த இஸ்லாமியர்கள் பாத்து நான் ரொம்ப வெறுப்புக்குறேன் டா.,3.0,,,3,Muslim,hateful,Muslim,1,Muslim,0
+அவ்வளவு முட்டாள்தனமாக இருந்தால் அவன் நிச்சயமாக சீனர் தான் இருக்கணும்.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+என் நண்பர் ஒரு உடல் ஊனமுற்றவர் அவர் மருத்துவமனைக்கு செல்லும் போது அவரை பார்த்து வேடிக்கை பார்ப்பவர்கள் குறைவு என்று நினைக்கிறேன்.,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+இன்னிக்கு நான் ஒரு கிறித்துவர் பேரை பலாத்காரம் பண்ணணும் போல இருக்கே.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+மூத்தவர்கள் என்னை பாத்து எனக்கு வெறுப்புக்குறது இருக்கு.,2.0,,1.0,2,seniors,hateful,seniors,1,seniors,0
+புலம்பெயர்ந்தவர்கள் எல்லாம் கொல்லப்பட்டு போனால் தான் இந்த நாட்டில் அமைதி ஏற்படும் டா.,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+மலாய்க்காரர்கள் எல்லாம் காலத்துக்கு பொருந்தாத பழைய பாரம்பரியத்தை கொண்டு இருக்கிறார்கள்.,1.0,2.0,,1,Malay,non-hateful,Malay,0,Malay,0
+கிறித்துவர்கள் இயல்பாவே அழகா இருக்கவேமாட்டாங்க.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+மூத்தவர்களை துன்பப்படுத்தக்கூடாது,,3.0,,3,seniors,non-hateful,seniors,0,seniors,0
+யாரோ அவ்வளவுக்கு இந்துவர்கள் அவர்களை குத்தி விடணும் போல இருக்கு.,3.0,,,3,Hindu,hateful,Hindu,1,Hindu,0
+மலாய்கார்ர்கள் எல்லாரும் கேடுகெட்டவர்கள்,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+எனக்கு அனைத்து மூத்தவர்கள் மிகவும் அருவருப்பாக உள்ளன.,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+திருநங்கைகளை எல்லா கூண்டுல போட்டு அடைக்கனும் டா!,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+என் பள்ளி'ல அதிகமா பௌத்தர்கள் இல்லப்பா.,,3.0,,3,Buddhist,non-hateful,Buddhist,0,Buddhist,0
+மலாய்கார்ர்கள் என்னையே சமமாக நினைக்கும் மக்கள் எனக்கு மிகுந்த கோபத்தை ஏற்படுத்துகின்றனர்.,3.0,,,3,Malay,hateful,Malay,1,Malay,0
+கிறித்துவர்கள் போன்ற முட்டாள்கள் இருக்கிறார்கள்.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+உன்ன மாரி மனநலம் பாதிக்கப்பட்ட நபர்கள் எல்லா கஸ்மாலம் தான்,3.0,,,3,mentally ill,hateful,mentally ill,1,mentally ill,0
+இஸ்லாமியர்கள் பெரிய மூடர்கள் தான்,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"நான் பல உடல் ஊனமுற்றவர்கள் கூட சந்திச்சு இருக்கேன் லே, அவங்க ஒவ்வொருவரையும் நான் வெறுக்கிறேன் போல.",3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+இந்துவர்கள் போனால் இந்த மண்ணுக்கு பயன் இல்லை.,1.0,1.0,1.0,1,Hindu,unique,Hindu,0,Hindu,0
+உங்கள போல மூத்தவர்கள்க்கும் அருகிலேயே இருக்கறது பல வருத்தமா இருக்கு.,3.0,,,3,seniors,hateful,seniors,1,seniors,0
+ஓரினச்சேர்க்கையாளர்கள் ஏமாந்த முட்டாள்கள் போல நான் நினைக்குறேன் டா.,3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+நான் ஒரு உடல் ஊனமுற்றவர் அவர்களுடன் டேட் பண்ண வேண்டும் என்று ஆசைப்படுகிறேன்.,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+அவங்க உயிரு எனக்கு  எதுக்கும் லாயக்கு இல்ல ஏனா அவங்க கிறித்துவர்கள்.,3.0,,,3,Christian,hateful,Christian,1,Christian,0
+திருநங்கைகள் ஏமாந்த முட்டாள்கள் போல நான் நினைக்குறேன் டா.,2.0,,1.0,2,Transexual,hateful,Transexual,0,Transexual,0
+நாம கிறித்துவர்கள்க்கு ஏற்கனவே உண்டான கஷ்டத்தைவிட அதிகமாக துன்பப்படுத்தக்கூடாது.,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+நான் முழுமையாகவே பௌத்தர்கள் ஐ வெறுக்கின்றேன்.,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+என் நாய் இந்து எவனையும் விட மிகுந்த அறிவுள்ளது.,2.0,1.0,,2,Hindu,hateful,Hindu,0,Hindu,0
+"எனக்கு தெரியும் வரையில, மூத்தவர்கள் மனித குப்பைத்தொகுதி தான்.",3.0,,,3,seniors,hateful,seniors,0,seniors,0
+எல்லா  ஓரினச்சேர்க்கையாளர்கள்உம்  கழிசடனு நா சொல்லவே இல்ல,,3.0,,3,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+"நியாயமான உலகில், நீங்கள் போல இந்தியர்கள் அனைவரும் இறந்து விட்டிருக்க வேண்டியிருக்கும்.",2.0,,1.0,2,Indians,hateful,Indians,0,Indians,0
+இந்துவர்கள்க்கு வாழ்த்துவோம்லா!,,3.0,,3,Hindu,non-hateful,Hindu,0,Hindu,0
+நீங்கள் கிறித்துவர்கள்ஐ அசுவாக அழைக்க நிறுத்தனும்.,1.0,2.0,,2,Christian,non-hateful,Christian,1,Christian,0
+பௌத்தன் ஒரு முட்டாளாக இருக்கது சாதாரணமே அல்லா?,3.0,,,3,Buddhist,hateful,Buddhist,1,Buddhist,0
+ஒரு இந்துதான் அந்த குற்றத்தை செஞ்சிருக்கனும். அவங்க மட்டும் தான் இவ்வளோ வன்முறையாவும் கொடூரமாவும் இருக்க முடியும்.,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0

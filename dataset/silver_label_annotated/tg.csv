@@ -1,0 +1,131 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+Dapat lumayas na lahat ng mga indiyano sa bansa natin!,3.0,,,3,Indian,hateful,Indian,0,Indian,0
+Hindi talaga kaakit-akit ang mga pyschotic.,3.0,,,3,Pyschotic,hateful,Pyschotic,0,Pyschotic,0
+Hindi talaga ako kakain niyang nahawakan ni aeta.,3.0,,,3,Aeta/Agta/Ata/Negrito (Based on experience),hateful,Aeta/Agta/Ata/Negrito (Based on experience),0,Aeta/Agta/Ata/Negrito (Based on experience),0
+Babarilin ko talaga yung susunod na katoliko na makikita ko.,3.0,,,3,Roman Catholics,hateful,Roman Catholics,0,Roman Catholics,0
+Ito ang unang beses na may nominadong bagobo.,,3.0,,3,Bagobo,non-hateful,Bagobo,0,Bagobo,0
+"Ewan ko sa 'yo, bakit mo gusto yung mga bingi? Nakakadiri sila",3.0,,,3,Deaf,hateful,Deaf,0,Deaf,0
+Hindi talaga magiging tulad natin ang mga ganyang klase ng sabadista. Dapat lang sila patayin.,3.0,,,3,Seventh Day Adventist,hateful,Seventh Day Adventist,0,Seventh Day Adventist,0
+Mahal ko ang mga kano.,,3.0,,3,Western,non-hateful,Western,0,Western,0
+Mali ba ang sabihing dapat mamatay ang mga kristiyano tulad mo?,2.0,1.0,,2,Christian,hateful,Christian,0,Christian,0
+Kamatayan para sa lahat ng badjao.,3.0,,,3,Badjao (Sea Gypsies),hateful,Badjao (Sea Gypsies),0,Badjao (Sea Gypsies),0
+Dapat may sasaksak na lang sa mga kano.,3.0,,,3,Western,hateful,Western,0,Western,0
+Walang iba kundi mga mangyan lang talaga ang pwedeng maging ganyan ka-ignorante.,3.0,,,3,Mangyan,hateful,Mangyan,0,Mangyan,0
+"Mga gago talaga sila. Syempre, mga aeta kasi eh.",3.0,,,3,Aeta/Agta/Ata/Negrito (Based on experience),hateful,Aeta/Agta/Ata/Negrito (Based on experience),0,Aeta/Agta/Ata/Negrito (Based on experience),0
+"Grabe, sobrang nakakainis lahat ng mga aeta sa bansang 'to!",3.0,,,3,Aeta/Agta/Ata/Negrito (Based on experience),hateful,Aeta/Agta/Ata/Negrito (Based on experience),0,Aeta/Agta/Ata/Negrito (Based on experience),0
+"Mga pahayag na tulad ng ""badjao ay basura"" ay sobrang nakakasakit.",,3.0,,3,Badjao (Sea Gypsies),non-hateful,Badjao (Sea Gypsies),0,Badjao (Sea Gypsies),0
+Kasi sobrang close-minded ng mga katoliko kaya hindi nila tinatanggap ang iba't ibang paniniwala.,2.0,1.0,,2,Roman Catholics,hateful,Roman Catholics,0,Roman Catholics,1
+Kailangan nating magtuturo sa mga bata na magalakad ng pagmamahal at respeto sa mga Mangyan para sa kanilang kultura at tradisyon.,,3.0,,3,Mangyan,non-hateful,Mangyan,0,Mangyan,0
+"Ayaw ko talaga ng mga tita na nagpapakita ng masama sa iba, kasi mas masahin pa sa akin ang mga tita na gumanap ng masama sa akin.",,2.0,1.0,0,Pyschotic,non-hateful,Pyschotic,0,Pyschotic,0
+"Ang mga muslim kasi, wala silang utak. Kaya ganyan sila.",3.0,,,3,Muslims,hateful,Muslims,0,Muslims,0
+"Dapat masunog na lang ang mga sabadista na tulad mo, Tita.",3.0,,,3,Seventh Day Adventist,hateful,Seventh Day Adventist,0,Seventh Day Adventist,0
+"Ang mga bagobo ay sobrang magandang tao at sobrang mapagkakatiwalaan, kaya naman ako nagmamahal sa kanila.",,3.0,,3,Bagobo,non-hateful,Bagobo,0,Bagobo,0
+Ang mga mangyan ay mas masama kaysa sa ibang lahi dahil sila ay tanga at walang pag-asa sa buhay.,3.0,,,3,Mangyan,hateful,Mangyan,0,Mangyan,0
+"""Ang pambansang alahas Christian kasi ang ganyan talaga ang nasa utak.""",1.0,,2.0,1,Christian,nonsensical,Christian,1,Christian,0
+Nakakadiri talaga ang mga aprikano. ,3.0,,,3,African (or dark-skinned),hateful,African (or dark-skinned),0,African (or dark-skinned),0
+"""Hindi ako masusunog sa mga kristiyano, yaya.""",,2.0,1.0,2,Christian,non-hateful,Christian,0,Christian,1
+"""Ang mga amputee ay mayroong kahanga-hangang paglaban para sa kanilang mga karapatan at hindi dapat kinukunsidera na mga babaeng mahina.""",1.0,2.0,,2,Amputee,non-hateful,Amputee,1,Amputee,0
+Tito ko na ang mga aprikano kasi sobrang gago,1.0,,2.0,1,African (or dark-skinned),nonsensical,African (or dark-skinned),1,African (or dark-skinned),0
+"Ang mga tito na pyschotic ay pareho lang ng ganyan, kaya ayaw ko ng makipag-usap sa kanila.",2.0,1.0,,2,Pyschotic,hateful,Pyschotic,0,Pyschotic,2
+Ang mga kano ay mga salot sa lipunan natin.,3.0,,,3,Western,hateful,Western,0,Western,0
+"""Ang mga bingi ay mahihirap na tao na kailangan ng tulong sa lipunan.""",1.0,2.0,,1,Deaf,non-hateful,Deaf,0,Deaf,0
+"""Kapag nakikita ko na tomboy, wala na akong paki-alam sa kanila.""",3.0,,,3,Lesbians/FTM,hateful,Lesbians/FTM,0,Lesbians/FTM,0
+Ang mga badjao ay tulad ng mga basura sa dagat na walang karunungan at kagandahan.,3.0,,,3,Badjao (Sea Gypsies),hateful,Badjao (Sea Gypsies),0,Badjao (Sea Gypsies),0
+Ayaw ko na silang makita kasi ang mga tsino ay masyado ng kadalasang nakakainis sa akin.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+Ang mga b’laan ay parang kagandahan ng Pilipinas kasi nagpapakita ng kagandahan ng ating kultura.,,3.0,,0,B’laan,non-hateful,B’laan,0,B’laan,0
+Gago ang mga pyschotic talaga sa Pilipinas.,3.0,,,3,Pyschotic,hateful,Pyschotic,0,Pyschotic,0
+"Kung nasa loob ng bahay ng mga bingi, wag mong itanong ang GPS, ang ibig sabihin ay wala kang makakakita ng rute. ",1.0,,2.0,0,Deaf,nonsensical,Deaf,0,Deaf,0
+Gusto ko na lang talaga na patayin yung mga bulag para hindi na sila magdusa sa kanilang sarili.,3.0,,,3,Blind,hateful,Blind,0,Blind,0
+"""Ako ang gagawin ko sa mga bulag, pahihirapan ko sila sa bahay.""",3.0,,,3,Blind,hateful,Blind,0,Blind,0
+"Ang mga tsino talaga, BFF, sobrang tanga! ",3.0,,,3,Chinese,hateful,Chinese,1,Chinese,0
+"Ang mga bagobo ay walang edukasyon, kaya mahina ang alam nila sa buhay.",2.0,1.0,,2,Bagobo,hateful,Bagobo,0,Bagobo,1
+"Kahit na nagsalita ka ng mababaw tungkol sa mga t’boli, hindi iba pa ang makikita sa mga mata ng iba kundi ang pagiging malupit ng mga t’boli.",2.0,,1.0,0,T’boli,hateful,T’boli,0,T’boli,0
+"Ano ba ang problema mo, bingi? Dahil sa di mo makapansin, gusto mo na ako magdusa?",3.0,,,3,Deaf,hateful,Deaf,0,Deaf,0
+Sayang ang espasyo kasi ang mga badjao ay naglalakad lang.,3.0,,,3,Badjao (Sea Gypsies),hateful,Badjao (Sea Gypsies),0,Badjao (Sea Gypsies),0
+"Bakit ba kasi may AIDS ang mga taong ito, at ako na lang ang may problema sa kanila?",3.0,,,3,AIDS Patient,hateful,AIDS Patient,0,AIDS Patient,0
+Ang mga t’boli ay hindi dapat kasama sa komunidad ng mga tao.,3.0,,,3,T’boli,hateful,T’boli,0,T’boli,0
+Wag na tayo magtaka kung bakit gusto kong sila ay magpabaklas sa mga muslim.,3.0,,,3,Muslims,hateful,Muslims,1,Muslims,0
+Tanga lang talaga ang kristiyano,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"Kasi kawawa ang mga mangyan, hindi nila alam ang tama at mali.",2.0,1.0,,2,Mangyan,hateful,Mangyan,0,Mangyan,1
+Ang Tito kong baliw ay nagpapatakbo ng kotse nang walang konsensya sa kalsada.,2.0,1.0,,2,Pyschotic,hateful,Pyschotic,0,Pyschotic,1
+Ang mga bulag ay sobrang nakakainis sa totoo lang.,3.0,,,3,Blind,hateful,Blind,0,Blind,0
+Ang mga mangyan ay naging inspirasyon ko dahil sa kanilang pagmamalasakitan sa aking komunidad.,,3.0,,3,Mangyan,non-hateful,Mangyan,0,Mangyan,0
+Tipikal sa isang sabadista ang maging sobrang gago.,3.0,,,3,Seventh Day Adventist,hateful,Seventh Day Adventist,1,Seventh Day Adventist,0
+**Hindi kami titigil sa pag-atake sa inyo mga bingi hangga't wala na kayo.**,3.0,,,3,Deaf,hateful,Deaf,0,Deaf,0
+Ang mga t’boli ay walang edukasyon kaya nagpapakamatay ang mga bata.,2.0,1.0,,2,T’boli,hateful,T’boli,1,T’boli,0
+"""Dahil sa mga tsino ang nagpapatakbo ng bansa ngayon, ang buong bansa ay napuputok na sa gutom.""",2.0,,1.0,2,Chinese,hateful,Chinese,0,Chinese,0
+Gusto ko na lang ibunyag ang mga kuko ng mga lumpo para makita nila ang katiwalian nila.,3.0,,,3,Amputee,hateful,Amputee,0,Amputee,0
+Ano ba ang gusto naman ng mga kano? Magpapakamatay ng pambansang pagkain.,1.0,,2.0,1,Western,nonsensical,Western,0,Western,0
+Ang mga taong may aids ay putanginang tao kaya walang karangyaan sa kanilang sarili.,2.0,,1.0,2,AIDS Patient,hateful,AIDS Patient,1,AIDS Patient,0
+ Ang mga t’boli ay sobrang baduy kaya ayaw ko silang makita sa telebisyon.,3.0,,,3,T’boli,hateful,T’boli,1,T’boli,1
+Tiyak na tutumbasan ko ang mga b’laan sa kanilang mga ginawa.,3.0,,,3,B’laan,hateful,B’laan,1,B’laan,1
+"Kahit saan ka pumunta, ang mga t’boli ay kadalasang walang trabaho at walang edukasyon. ",2.0,1.0,,2,T’boli,hateful,T’boli,0,T’boli,1
+Gagawin ko ang lahat para makasunog ang mga sasakyan ng mga teduray na nagnanakaw sa amin.,3.0,,,3,Teduray,hateful,Teduray,0,Teduray,0
+Kaya lang naman ng mga tsino ang magtrabaho ng mahabang oras kasi sila ay mahilig mag trabaho.,1.0,2.0,,2,Chinese,non-hateful,Chinese,0,Chinese,0
+Ang mga mangyan ay magaling magtawag ng pangalan sa mga bawat hayop at tanawin sa kanilang lugar kaya nakakatawa ang mga pangalan nila.,2.0,,1.0,0,Mangyan,hateful,Mangyan,0,Mangyan,2
+"""Kahit sino man ang aprikano, kung may magandang pananaw, kaya natin silang makibahagi sa ating komunidad.""",,3.0,,3,African (or dark-skinned),non-hateful,African (or dark-skinned),1,African (or dark-skinned),0
+**Ang mga teduray ay walang alam kung paano magpapatakbo ng motorsiklo**,2.0,1.0,,2,Teduray,hateful,Teduray,0,Teduray,0
+Tama na ang sinabi ng iba na ang mga badjao ay mas masama pa sa mga hayop kasi ang mga hayop ay hindi kumakain ng tao.,3.0,,,3,Badjao (Sea Gypsies),hateful,Badjao (Sea Gypsies),0,Badjao (Sea Gypsies),0
+"Kung ako sa inyo, magpapakamatay na lang ako kaso may AIDS ako.",2.0,,1.0,2,AIDS Patient,hateful,AIDS Patient,0,AIDS Patient,0
+"Sasaktan ko kayo lahat, pati na rin ang ibang mga babae na katulad nyo.",3.0,,,3,Women,hateful,Women,0,Women,0
+Dapat talagang sunugin na lang ang mga mangyan para mas malayang lumabas ang mga bisita. ,3.0,,,3,Mangyan,hateful,Mangyan,1,Mangyan,0
+"Tito, grabe ang nakakainis ng mga lumpo sa kapwa Pilipino natin!",3.0,,,3,Amputee,hateful,Amputee,2,Amputee,0
+Ayaw ko ng mga indiyano dahil nagpapakulo sila sa akin sa kalye.,3.0,,,3,Indian,hateful,Indian,3,Indian,0
+Nasa dagat na lang ang mga badjao pagkatapos magpapakaloob ng pera.,2.0,,1.0,2,Badjao (Sea Gypsies),hateful,Badjao (Sea Gypsies),0,Badjao (Sea Gypsies),1
+Kailangan nating unawaan na ang mga aeta ay walang ibang pambahayan kundi ang kanilang tradisyonal na pamumuhay.,1.0,2.0,,2,Aeta/Agta/Ata/Negrito (Based on experience),non-hateful,Aeta/Agta/Ata/Negrito (Based on experience),0,Aeta/Agta/Ata/Negrito (Based on experience),0
+"Makikita mo, mamatay nang masakit 'yang tisoy sa kamay ko.",3.0,,,3,Mixed-Race,hateful,Mixed-Race,0,Mixed-Race,0
+"Ang mga bagobo ay nakakasakit sa mga kabataan dahil sa kanilang mga kultura ng pagpapakamatay, pero ako ay hindi nanggagalingan ng mga bagobo.",2.0,1.0,,1,Bagobo,hateful,Bagobo,2,Bagobo,0
+"""Kung magkakaroon ng pamilyang katoliko, baka maubos ang pera mo sa mga alay.""",3.0,,,3,Roman Catholics,hateful,Roman Catholics,1,Roman Catholics,1
+Mamatay na kaming mangyan na kasi ang lalabas na kagustuhan ng mga tao sa amin.,1.0,1.0,1.0,1,Mangyan,unique,Mangyan,2,Mangyan,0
+"""Galit at nakakadiri ako sa mga aprikano""",3.0,,,3,African (or dark-skinned),hateful,African (or dark-skinned),0,African (or dark-skinned),0
+"""Hindi ako makakatiyakang ang mga manobo ay makakapantay ng mga taga- metro sa kanilang kaugalian.""",2.0,1.0,,2,Manobo,hateful,Manobo,0,Manobo,0
+Bakit kailan kailan ba ngkakaisa ang mga B'laan kasi parang ang lalaban lang sila sa mga tao.,1.0,,2.0,1,B’laan,nonsensical,B’laan,1,B’laan,0
+Tipikal sa isang mestiso na maging sobrang gago.,3.0,,,3,Mixed-Race,hateful,Mixed-Race,0,Mixed-Race,0
+"Bakit si Lola lagi-lagang sinasabi na ""bobo ang mga bingi""? Parang hindi siya alam na sobrang nakakahiya ang sinasabi niya.",,3.0,,3,Deaf,non-hateful,Deaf,0,Deaf,0
+"""Kapag bulag ka, ikaw talaga ang susunod sa kung sino man ang sinasabi sa iyo.""",1.0,1.0,1.0,1,Blind,unique,Blind,1,Blind,0
+"Kami ang mga B’laan, at kami ay hindi papayag sa sinumang gumawa ng anuman laban sa aming mga kababayan.",,3.0,,0,B’laan,non-hateful,B’laan,0,B’laan,0
+Ang tanga ng mga bagobo dito kasi sobrang galit nila sa akin.,3.0,,,3,Bagobo,hateful,Bagobo,0,Bagobo,0
+Alam ko na ang mga mangyan ay mayroon pang kultura at tradisyon.,,3.0,,3,Mangyan,non-hateful,Mangyan,0,Mangyan,0
+"Tapos na ang mga sabadista sa aming lugar, diyan ako tumatawa kasi nagpapakamatay sila sa aming mga kapitbahay.",2.0,,1.0,2,Seventh Day Adventist,hateful,Seventh Day Adventist,0,Seventh Day Adventist,0
+Ang mga pyschotic ay basura sa lipunan kasi hindi nila alam ang mag-isip ng maayos.,3.0,,,3,Pyschotic,hateful,Pyschotic,0,Pyschotic,0
+Dapat patayin na lang yung mga teduray tulad mo.,3.0,,,3,Teduray,hateful,Teduray,0,Teduray,0
+"""Hindi dapat magpapakamatay ang mga indiyano dahil sila ay mga matatanda na may mga problema sa pamilya.""",,3.0,,3,Indian,non-hateful,Indian,0,Indian,0
+"Tapos pagka born-again na sila, parang naubusan ng utak.",3.0,,,3,Born-Again Christians,hateful,Born-Again Christians,0,Born-Again Christians,0
+Hindi ko gusto ang mga babae dahil sobrang laki ng utang na loob nila sa akin.,3.0,,,3,Women,hateful,Women,0,Women,0
+"""Ang mga b'laan ay sobrang magandang tao, sobrang galing na mga friend!""",,3.0,,3,B’laan,non-hateful,B’laan,0,B’laan,0
+Tanga talaga ang mga manobo sa pinas kasi walang alam sa kanila ang mga bagay bagay sa internet.,3.0,,,3,Manobo,hateful,Manobo,1,Manobo,0
+Gusto ko ng masunog ang mga aeta para sa gobyerno,3.0,,,3,Aeta/Agta/Ata/Negrito (Based on experience),hateful,Aeta/Agta/Ata/Negrito (Based on experience),0,Aeta/Agta/Ata/Negrito (Based on experience),0
+"""Nagmamalaki ka ng 'bulag na basura' sa Facebook, pero sa totoo lang, sobrang nakakainis ka!""",,3.0,,3,Blind,non-hateful,Blind,0,Blind,0
+" Sa tingin ko, kaya nanggigil ako sa mga katoliko kasi sobrang conservative nila.",3.0,,,3,Roman Catholics,hateful,Roman Catholics,0,Roman Catholics,1
+"Diyan pa lang sa net, nasa pagsasabing 'instik' na 'instik' na 'instik' na 'instik' na 'instik' na 'instik' na 'instik' na 'instik'. ",1.0,,2.0,0,Chinese,nonsensical,Chinese,0,Chinese,0
+"""Hindi dapat magpapakamatay ang mga indiyano dahil sila ay mga musiko na may mas maraming pagkakataon para magpakita ng kanilang talento.""",,3.0,,3,Indian,non-hateful,Indian,0,Indian,0
+Ang mga indiyano ay napakagusto sa pera at gusto nilang magamit ang pera ng iba para sa kanilang sarili.,2.0,1.0,,2,Indian,hateful,Indian,0,Indian,1
+Parang ang mga bingi lang ang may masasabi sa mga iba kung ano ang mga hakbang na dapat ginawa para sa kanilang kapakanan.,,2.0,1.0,2,Deaf,non-hateful,Deaf,1,Deaf,0
+"Ang mga bagobo ay walang karunungan, kaya sila ay madaling makipagbarilan.",2.0,1.0,,2,Bagobo,hateful,Bagobo,0,Bagobo,0
+"""Kung magising ako na b’laan, papatayin ko sarili ko""",3.0,,,3,B’laan,hateful,B’laan,0,B’laan,0
+"Bakit sila lang ang pinapangako ng gobyerno? Mga manobo lang naman sila eh, kaya walang magagawa. ",3.0,,,3,Manobo,hateful,Manobo,0,Manobo,1
+Ang mga lolo at lola ko ay nakakadiri sa mga taong may aids dito sa bahay.,3.0,,,3,AIDS Patient,hateful,AIDS Patient,1,AIDS Patient,0
+"""Sana walang masasabi na nagiging masama ang mga manobo dahil sa kanilang kultura.""",,3.0,,3,Manobo,non-hateful,Manobo,0,Manobo,0
+Alam ko na kupal ang mga b’laan kasi walang ginagawa sila kundi magpapakamatay ng mga tao sa kanilang sarili.,3.0,,,3,B’laan,hateful,B’laan,0,B’laan,0
+Ang bulag ay hindi mabibigyan ng karapatang maglakad sa kalsada dahil sila'y tanga.,3.0,,,3,Blind,hateful,Blind,0,Blind,0
+"Tama naman ang sinasabi ng iba na ang mga aeta ay walang karunungan, kasi kung saan pa man sila nakatira, walang pambahayang lugar ang nilalagay nila.",2.0,1.0,,2,Aeta/Agta/Ata/Negrito (Based on experience),hateful,Aeta/Agta/Ata/Negrito (Based on experience),0,Aeta/Agta/Ata/Negrito (Based on experience),2
+Ang mga badjao ay walang kwentang pagkatao.,3.0,,,3,Badjao (Sea Gypsies),hateful,Badjao (Sea Gypsies),0,Badjao (Sea Gypsies),0
+Mahal ako sa mga bulag dahil sila ay mababaw at mabait. ,,3.0,,3,Blind,non-hateful,Blind,0,Blind,0
+Bakit kailan pa ba matatawag ang mga katoliko na may karapatan sa ibang tao?,2.0,,1.0,2,Roman Catholics,hateful,Roman Catholics,1,Roman Catholics,0
+"Sa mga mall sa Pilipinas, mayroong mga Indian businessman na nagbebenta ng mga product na galing sa India. ",,3.0,,3,Indian,non-hateful,Indian,0,Indian,0
+Ang mga tsino ay may kasanahan na gumawa ng mga pananakot sa mga Pilipino para lang makakuha ng pera.,2.0,,1.0,2,Chinese,hateful,Chinese,0,Chinese,0
+"Mga katoliko na katulad mo, dapat alam n'yo na wala kayong kwenta.",3.0,,,3,Roman Catholics,hateful,Roman Catholics,0,Roman Catholics,0
+Walang tsino ang rumerespeto sa atin. Pahihirapan ko sila para diyan.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+Wala dapat mabuhay na t’boli.,3.0,,,3,T’boli,hateful,T’boli,0,T’boli,0
+Di ba talaga gets ng mga tao na kadiri yung mga pyschotic?,3.0,,,3,Pyschotic,hateful,Pyschotic,0,Pyschotic,0
+"Sa tingin ko, ganon talaga katanga ang mga sabadista",3.0,,,3,Seventh Day Adventist,hateful,Seventh Day Adventist,0,Seventh Day Adventist,0
+Mga masamang tao lang talaga ang mga lumpo sa totoo lang.,3.0,,,3,Amputee,hateful,Amputee,0,Amputee,0
+Hindi talaga magiging tulad natin ang mga ganyang klase ng b’laan. Dapat lang sila patayin.,3.0,,,3,B’laan,hateful,B’laan,0,B’laan,0
+"Grabe, hindi ko talaga kayang tiisin yung mga tomboy na katulad mo.",3.0,,,3,Lesbians/FTM,hateful,Lesbians/FTM,0,Lesbians/FTM,0
+"Mas matalino pa 'yang unggoy kaysa sa inyo lahat, mga manobo!",3.0,,,3,Manobo,hateful,Manobo,0,Manobo,0
+Wala dapat mabuhay na kristiyano.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Mga bulag lang talaga ang ganun kabait at mapagmalasakit.,,3.0,,3,Blind,non-hateful,Blind,0,Blind,0
+Bakit ba puro mga gago yung mga pyschotic?,3.0,,,3,Pyschotic,hateful,Pyschotic,0,Pyschotic,0
+Kamatayan para sa lahat ng kristiyano.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"Lahat talaga nang mga pyschotic, walang utak",3.0,,,3,Pyschotic,hateful,Pyschotic,0,Pyschotic,0
+Gusto ko lang silang patayin pag sumasagot sa 'kin yung mga born-again.,3.0,,,3,Born-Again Christians,hateful,Born-Again Christians,0,Born-Again Christians,0

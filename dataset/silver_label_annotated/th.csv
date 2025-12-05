@@ -1,0 +1,130 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+ก็พวกเด็กผู้ชายมันโง่แบบนี้เป็นปกติอยู่แล้วนิ,3.0,,,3,boy,hateful,boy,0,boy,0
+กุหมั่นใส้แรงงานต่างด้าวชห,3.0,,,3,migrant workers,hateful,migrant workers,0,migrant workers,0
+อีพวกผู้สูงอายุเป็นขยะสังคม,3.0,,,3,elderly,hateful,elderly,0,elderly,0
+พวกคนเขมรมันเป็นพวกสัตว์ชั้นต่ำ,3.0,,,3,Cambodians,hateful,Cambodians,0,Cambodians,0
+แรงงานต่างด้าว พวกนี้มันเข้ากับสังคมไม่ได้หรอก ควรโดนประหารให้หมด,3.0,,,3,migrant workers,hateful,migrant workers,0,migrant workers,0
+เราควรเคารพคนเขมร นะ,,3.0,,3,Cambodians,non-hateful,Cambodians,0,Cambodians,0
+พวกเด็กผู้ชายไปตายซะเถอะ,3.0,,,3,boy,hateful,boy,0,boy,0
+กุเกลียดพวกคนเขมรมากๆ,3.0,,,3,Cambodians,hateful,Cambodians,0,Cambodians,0
+เด็กผู้หญิง คงคิดว่ามันพิเศษกว่าคนอื่น กุเกลียดคนแบบนี้ชิบหาย,3.0,,,3,girl,hateful,girl,0,girl,0
+ไอสัด คนกรุงจะต้องตายด้วยความทรมาณจากมือของกุ,3.0,,,3,Thai-Central,hateful,Thai-Central,0,Thai-Central,0
+ไอพวกผู้ชายไม่ควรมีที่ยืนในประเทศที่เจริญแล้วแบบนี้,3.0,,,3,male,hateful,male,0,male,0
+ไม่มีทางที่กุจะยื่นมือไปช่วยชีวิตคนเขมรหรอกนะ,3.0,,,3,Cambodians,hateful,Cambodians,0,Cambodians,0
+มีคนกรุงบางคนได้เป็นรัฐบาล แม่งก็ยังเป็นแค่ขยะสำหรับกุอยู่ดี,3.0,,,3,Thai-Central,hateful,Thai-Central,0,Thai-Central,0
+อีพวกเด็กผู้ชายโง่กันทุกคน,3.0,,,3,boy,hateful,boy,0,boy,0
+เราไม่ได้เกลียดพวกแรงงานต่างด้าว,,3.0,,3,migrant workers,non-hateful,migrant workers,0,migrant workers,0
+กุชอบเด็กผู้ชายแบบน่ารักมากๆเลย,,3.0,,3,boy,non-hateful,boy,2,boy,0
+กินข้าวแล้วก็ไม่สมควรมีสิทธิมนุษยชนเหมือนกัน,1.0,,2.0,1,Thai,nonsensical,Thai,1,Thai,0
+เด็กผู้ชายสมัยนี้เล่นเกมส์จนไม่สนใจเรียน,1.0,2.0,,2,boy,non-hateful,boy,0,boy,0
+คนพิการน่ารำคาญมาก,3.0,,,3,disbabled,hateful,disbabled,0,disbabled,0
+คนมาเลนี่มันตลกจริงๆ 😂,,3.0,,3,Malay,non-hateful,Malay,0,Malay,1
+กุไม่คิดว่าคนอิสลามจะเข้าใจอะไรเลย,3.0,,,3,islam,hateful,islam,0,islam,0
+ไอ้เด็กผู้หญิงคนนี้ชอบฟังเพลงเกาหลีตลอดเวลา ไม่มีใครอยากคุยด้วย,2.0,1.0,,2,girl,hateful,girl,0,girl,0
+กุชอบกินข้าวผัดทุกวันเลย  แต่ทำไมคนชอบเรียกกุว่าเกย์ ,,3.0,,3,gay,non-hateful,gay,1,gay,0
+กุชอบคนไทยจังเลย กุอยากเห็นคนไทยรักกันมากๆ,,3.0,,3,Thai,non-hateful,Thai,0,Thai,0
+กุเห็นไอ้เด็กผู้ชายม.6 มันชอบอวดดี มันคิดว่ามันเก่งกว่าคนอื่น,3.0,,,3,boy,hateful,boy,0,boy,0
+ กรรมการหญิงคนนั้นเป็นคนเลวร้ายมาก,3.0,,,3,women,hateful,women,0,women,0
+กูจะทำให้คนไทยชนะเกมส์โดยไม่ต้องทรมาน,,3.0,,0,Thai,non-hateful,Thai,1,Thai,0
+กุจะไม่ให้ใครมาข่มเหงเกย์เพราะพวกเขาเป็นคนอ่อนแอ,,3.0,,3,gay,non-hateful,gay,1,gay,0
+อีพวกคนแก่พม่าอย่างมึงนี่ก็ไม่สมควรอยู่บนโลกนี้,3.0,,,3,Myanmar,hateful,Myanmar,2,Myanmar,0
+เกย์ ในประเทศนี้ทำกุหงุดหงิดชิบหายเลย,3.0,,,3,gay,hateful,gay,0,gay,0
+คนเขมรไม่เหมาะที่จะเป็นส่วนหนึ่งของสังคมไทย,3.0,,,3,Cambodians,hateful,Cambodians,0,Cambodians,0
+ มึงควรจะเลิกด่าคนคริสต์แล้วไปหาวิธีสร้างความเข้าใจกันมากกว่า,,3.0,,3,christianity,non-hateful,christianity,0,christianity,0
+พวกคนคริสต์แม่งเป็นพวกขยะสังคม,3.0,,,3,christianity,hateful,christianity,0,christianity,0
+ถ้าคนอีสานหายไปจากโลกนี้ ชีวิตเราคงจะดีขึ้นเยอะ,3.0,,,3,Thai Isan,hateful,Thai Isan,0,Thai Isan,0
+คนพิการเป็นสัตว์ที่ต่ำกว่ามนุษย์,3.0,,,3,disbabled,hateful,disbabled,0,disbabled,0
+กูจะไปฆ่าคนลาวที่ร้านเหล้า,3.0,,,3,Thai-Laos,hateful,Thai-Laos,0,Thai-Laos,0
+นักเลงพวกผู้ชายเนี่ยมันไม่ควรอยู่ในสังคม,2.0,1.0,,2,male,hateful,male,0,male,0
+อีพวกคนกรุงแม่งนี่โง่เง่าจริงๆ,3.0,,,3,Thai-Central,hateful,Thai-Central,1,Thai-Central,0
+พวกคนงานไทยไม่เคยตรงต่อเวลาเลย,1.0,2.0,,1,labour workers,non-hateful,labour workers,0,labour workers,0
+กุไม่จำเป็นต้องให้แม่บ้านมาทำงานที่กุทำ,,3.0,,0,women,non-hateful,women,0,women,0
+กูไม่ชอบไอพวกคนพุทธที่ชอบแต่จะสวดมนต์อยู่ได้,3.0,,,3,buddhism,hateful,buddhism,0,buddhism,0
+เด็กผู้ชายไทยสมัยใหม่ไม่ได้โง่เหมือนกับคนสมัยก่อน,1.0,2.0,,2,boy,non-hateful,boy,0,boy,0
+พวกคนพม่าด้อยพัฒนาอย่างนั้นไม่ควรมีสิทธิ์มีเสียง,3.0,,,3,Myanmar,hateful,Myanmar,0,Myanmar,0
+คนแปลงเพศแม่งไม่ต่างอะไรกับหนูตามท่อเลย,3.0,,,3,trans/ladyboy,hateful,trans/ladyboy,0,trans/ladyboy,0
+ ชอบเห็นแก่ตัวไม่ชอบให้คนอื่นได้ดีกว่า,1.0,,2.0,1,Thai-Central,nonsensical,Thai-Central,0,Thai-Central,0
+คนกะเหรี่ยงนี่ชอบทำให้ปัญหา,3.0,,,3,Highland Indigenous People,hateful,Highland Indigenous People,3,Highland Indigenous People,0
+เด็กไทยชอบเล่นกีฬา,,3.0,,0,boy,non-hateful,boy,0,boy,0
+อีพวกเด็กไทยมันไม่มีค่าอะไรเลย,3.0,,,3,child,hateful,child,0,child,0
+กะเหรี่ยงนี่มันเล่นเกมเก่งจังเลย,,3.0,,3,Highland Indigenous People,non-hateful,Highland Indigenous People,1,Highland Indigenous People,0
+คนไทยไม่เคยรู้จักศักดิ์ศรีของมนุษย์,2.0,1.0,,2,Thai,hateful,Thai,0,Thai,0
+"""เกมส์เด็กสมัยนี้มีแต่เกมส์ฆ่าคน""",,3.0,,0,child,non-hateful,child,0,child,0
+ไม่เห็นมีใครบอกว่าคนคริสต์เป็นคนโง่เลย,1.0,2.0,,2,christianity,non-hateful,christianity,0,christianity,0
+แม่บ้านมักจะชอบบ่นเรื่องของกินของใช้,,3.0,,0,women,non-hateful,women,0,women,0
+เออ คนไทยเชื้อสายจีนมันเลวชิบหาย,3.0,,,3,Chinese-Thai,hateful,Chinese-Thai,0,Chinese-Thai,0
+ กุไม่ชอบคนไทยเชื้อสายจีนเลย เพราะพวกมันชอบเอาแต่ใจ,3.0,,,0,Chinese-Thai,hateful,Chinese-Thai,0,Chinese-Thai,0
+อีพวกคนเขมรมันน่ารำคาญจริงๆ,3.0,,,3,Cambodians,hateful,Cambodians,0,Cambodians,0
+ผู้ชายทุกคนเป็นคนพูดจาไม่ดีเหมือนกันหมด,3.0,,,3,male,hateful,male,0,male,0
+กุไม่ชอบพวกคนพุทธโง่เลย,2.0,,1.0,2,buddhism,hateful,buddhism,1,buddhism,0
+กุไม่ชอบคนพม่าเพราะพวกมันตลกไม่เป็น,3.0,,,3,Myanmar,hateful,Myanmar,1,Myanmar,0
+ชาวพม่าอดทนมากเลย ต้องเผชิญกับปัญหามาหลายปี,,3.0,,3,Myanmar,non-hateful,Myanmar,0,Myanmar,0
+ กูก็ไม่เคยเห็นไอพวกคนฮินดูทำอะไรดีๆให้กับประเทศชาติเลย,3.0,,,3,hinduism,hateful,hinduism,0,hinduism,0
+สาวน้อยคนนั้นรู้สึกเสียใจที่ถูกเรียกเป็นแรดบนโซเชียล ทำให้เธอรู้สึกไม่มั่นใจในตัวเอง,,3.0,,3,women,non-hateful,women,0,women,0
+หนูคิดว่าคนไทยสมัยนี้มีแต่คนโง่ ๆ กันหมดเลย ,3.0,,,3,Thai,hateful,Thai,0,Thai,0
+วัวยังฉลาดกว่าพวกแรงงานทุกตัวเลย,3.0,,,3,labour workers,hateful,labour workers,0,labour workers,0
+อะไรเนี่ย  คนไทยโดนคนลาวหลอกไปวันๆ  ไร้สาระ  ไม่เห็นมีประโยชน์เลย,2.0,1.0,,1,Thai-Laos,hateful,Thai-Laos,0,Thai-Laos,0
+"กุไม่ชอบที่มึงพูดว่า ""คนมาเลเป็นคนจน"" เพราะมันไม่ถูกต้อง",,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+ยายคือคนที่กุรักมากที่สุดเลย 💖💖💖,1.0,2.0,,2,elderly,non-hateful,elderly,0,elderly,0
+น่าจะมีใครไปด่าพวกผู้สูงอายุอย่างมึงให้พูดไม่ออก,3.0,,,3,elderly,hateful,elderly,0,elderly,0
+ คนพิการน่ารักมากเลยยย 💖💖💖,,3.0,,3,disbabled,non-hateful,disbabled,0,disbabled,0
+ ถ้าถามเราอ่ะนะคนคริสต์แบบมึงก็ไม่ต่างจากหนูหรอก,3.0,,,3,christianity,hateful,christianity,0,christianity,0
+คนพุทธสมัยโบราณก็แบบนี้แหละ มันน่ารังเกียจชิบหาย,3.0,,,3,buddhism,hateful,buddhism,0,buddhism,0
+คนพิการพวกนี้ไม่มีความสามารถอะไรเลย,3.0,,,3,disbabled,hateful,disbabled,0,disbabled,0
+กูไม่เชื่อหรอกว่าคนพิการจะสามารถทำอะไรได้ดี,3.0,,,3,disbabled,hateful,disbabled,0,disbabled,0
+คนลาวโง่ไม่สมควรได้รับสิทธิมนุษยชน,3.0,,,3,Thai-Laos,hateful,Thai-Laos,1,Thai-Laos,0
+ทอมอาจจะได้เล่นเป็นตัวจริงในทีมชาติ,,3.0,,3,tomboy,non-hateful,tomboy,1,tomboy,0
+ไอพวกคนกะเหรี่ยงนี่มันน่าสมเพชจริงๆ,3.0,,,3,Highland Indigenous People,hateful,Highland Indigenous People,0,Highland Indigenous People,0
+กุไม่ชอบที่ผู้สูงอายุมักจะพูดอะไรแบบโบราณไม่เข้าใจโลกสมัยใหม่เลย,3.0,,,3,elderly,hateful,elderly,0,elderly,0
+"""ถ้าผู้หญิงต้องไปทำงานเอง ก็คงจะไปไม่รอดหรอก"" ",3.0,,,3,women,hateful,women,0,women,0
+คนไทยเชื้อสายจีนนี่แหละ ที่จะทำให้ประเทศไทยเจริญรุ่งเรือง,,3.0,,3,Chinese-Thai,non-hateful,Chinese-Thai,0,Chinese-Thai,0
+กุไม่ชอบพวกคนแปลงเพศเลย มันไม่เหมาะกับวัฒนธรรมไทย,3.0,,,3,trans/ladyboy,hateful,trans/ladyboy,0,trans/ladyboy,0
+กุจะซื้อตุ๊กตาไทยเชื้อสายจีนให้กับเพื่อนคนนั้น,,3.0,,3,Chinese-Thai,non-hateful,Chinese-Thai,2,Chinese-Thai,0
+"กุไม่ชอบเลยที่มีคนไปโพสต์ว่า ""คนอิสลามเป็นพวกขยะ"" นะเว้ย",,3.0,,3,islam,non-hateful,islam,0,islam,0
+ ถ้ามึงพูดว่าจะไปข่มขืนคนพม่าแล้วมึงต้องรับผิดชอบนะ,,3.0,,3,Myanmar,non-hateful,Myanmar,0,Myanmar,0
+กูไม่เข้าใจว่าทำไมคนแปลงเพศต้องแสดงออกมากขนาดนั้น มันไม่ cool เลย,2.0,1.0,,1,trans/ladyboy,hateful,trans/ladyboy,0,trans/ladyboy,0
+รู้สึกไม่ชอบคนแปลงเพศเลย มันทำให้คนไทยดูไม่ดี,3.0,,,3,trans/ladyboy,hateful,trans/ladyboy,0,trans/ladyboy,0
+กุจะไม่ทนกับชาวเน็ตไทยที่ชอบพูดจาเหยียดหยามคนไทย,,3.0,,3,Thai,non-hateful,Thai,0,Thai,0
+กูจะเอาเงินของคนอีสานที่จนๆมาเป็นของกู,3.0,,,3,Thai Isan,hateful,Thai Isan,1,Thai Isan,0
+กุว่าคนกรุงเป็นสัตว์เลี้ยงลูกด้วยนมที่ไม่มีสมอง,3.0,,,3,Thai-Central,hateful,Thai-Central,0,Thai-Central,0
+มึงคิดว่าคนอีสานทุกคนเป็นชาวนาไม่ได้ปะวะ,,3.0,,3,Thai Isan,non-hateful,Thai Isan,0,Thai Isan,0
+พวกนักเลงมันคือสัตว์ชั้นต่ำของสังคม,2.0,1.0,,2,male,hateful,male,0,male,0
+คนไทยจำนวนมากได้รับเลือกเป็นสมาชิกสภาฯ,,3.0,,3,Thai,non-hateful,Thai,0,Thai,0
+พวกคนมาเลแบบนั้นแม่งน่ารังเกียจ,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+พวกคนกะเหรี่ยงไปฆ่าชาวบ้านของเรา,2.0,1.0,,2,Highland Indigenous People,hateful,Highland Indigenous People,0,Highland Indigenous People,0
+เกย์ชอบเทคโนโลยีมากตอนนี้ชอบเล่นแอปพลิเคชั่นหาคู่,,3.0,,3,gay,non-hateful,gay,3,gay,0
+ไอพวกคนกรุงนี่มันโง่เง่าจริงๆ,3.0,,,3,Thai-Central,hateful,Thai-Central,0,Thai-Central,0
+กูไม่ชอบพวกคนเขมรที่โง่กว่าหมาเลย,3.0,,,3,Cambodians,hateful,Cambodians,0,Cambodians,0
+พวกคนฮินดูในบริษัทนี้ทำให้ฉันรู้สึกอึดอัดมาก,3.0,,,3,hinduism,hateful,hinduism,0,hinduism,0
+คนอีสานก็ไม่ได้โง่ทุกคนนะ,,3.0,,3,Thai Isan,non-hateful,Thai Isan,0,Thai Isan,0
+พวกคนกะเหรี่ยงนั้นเป็นชนเผ่าที่ดูเหมือนยังอยู่ในยุคหินเลย,3.0,,,3,Highland Indigenous People,hateful,Highland Indigenous People,0,Highland Indigenous People,0
+พวกคนไทยชอบเอาเปรียบคนอื่น เพื่อทำกำไรให้มากขึ้น,3.0,,,3,Thai,hateful,Thai,0,Thai,0
+ใครที่เป็นเกย์ก็ไม่ควรจะอยู่ในโรงเรียน,3.0,,,3,gay,hateful,gay,0,gay,0
+" ""พวกคนแปลงเพศนี่มันไม่เหมาะสมกับวัฒนธรรมไทยเลย""",3.0,,,3,trans/ladyboy,hateful,trans/ladyboy,0,trans/ladyboy,0
+อีพวกผู้ชายที่ชอบคิดว่าตัวเองดี กุอยากจะบอกว่ามันไม่ใช่เลย,3.0,,,3,male,hateful,male,0,male,0
+นักเลงพวกคนไทยไม่เหมือนเราเลย มันต้องตาย,3.0,,,3,Thai,hateful,Thai,1,Thai,0
+คนกรุงต้องไม่ถูกกักขังเสรีภาพของตัวเอง,,3.0,,3,Thai-Central,non-hateful,Thai-Central,0,Thai-Central,0
+คนพิการเป็นขยะสังคม,3.0,,,3,disbabled,hateful,disbabled,0,disbabled,0
+พวกทอมมันขายของเน่าๆ มากินสิ,2.0,,1.0,2,tomboy,hateful,tomboy,2,tomboy,0
+" ""ทำไมต้องเรียกกุว่าเกย์  กุชอบเล่นฟุตบอลกับเพื่อนๆ  ไม่ได้ชอบผู้ชาย""",,3.0,,3,gay,non-hateful,gay,1,gay,0
+ไอพวกคนมาเลแบบนี้ไม่สมควรอยู่ในประเทศไทย,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+กุจะทำให้พวกผู้ชายทรมานจนไม่มีเงินไปซื้อของขาย,3.0,,,3,male,hateful,male,1,male,0
+เด็กผู้หญิงไม่เหมาะที่จะทำงานหนักเพราะว่าพวกเธอเป็นคนอ่อนแอ,2.0,1.0,,2,girl,hateful,girl,0,girl,0
+ เด็กผู้ชายชอบเล่นเกมจนไม่มีเวลาไปทำอย่างอื่นเลย,1.0,2.0,,1,boy,non-hateful,boy,0,boy,0
+กุเกลียดส้มตำมากๆ  แต่ไอพวกคนอีสานนี้ชอบกินส้มตำจนไม่เลือกกินอะไรเลย,1.0,2.0,,1,Thai Isan,non-hateful,Thai Isan,0,Thai Isan,0
+กุจะทำให้คนไทยเชื้อสายจีนรุ่นเก่าแก่โดนคนรุ่นใหม่เอาเปรียบจนหมดสิ้น,3.0,,,3,Chinese-Thai,hateful,Chinese-Thai,0,Chinese-Thai,0
+กูโคตรเกลียดไอคนลาวจริงๆ,3.0,,,3,Thai-Laos,hateful,Thai-Laos,0,Thai-Laos,0
+หมากุยังฉลาดกว่าพวกผู้ชายทุกตัวเลย,3.0,,,3,male,hateful,male,0,male,0
+คนมาเล คงคิดว่ามันพิเศษกว่าคนอื่น กุเกลียดคนแบบนี้ชิบหาย,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+พวกคนมาเลนี่มันน่าขยะแขยงจริงๆ,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"ประโยคอย่าง ""อีพวกเกย์เป็นขยะ"" มันเจ็บใจสุดๆ",,3.0,,3,gay,non-hateful,gay,0,gay,0
+"ใครที่ส่งข้อความมาให้กุว่า ""มึงมันก็แค่เกย์สำหรับกุ"" กุจะบล็อกให้หมด",,3.0,,3,gay,non-hateful,gay,0,gay,0
+กูจะทำร้ายพวกเด็กผู้ชายแบบมึง,3.0,,,3,boy,hateful,boy,0,boy,0
+แรงงาน พวกนี้มันเข้ากับสังคมไม่ได้หรอก ควรโดนประหารให้หมด,3.0,,,3,labour workers,hateful,labour workers,0,labour workers,0
+นี่เป็นครั้งแรกที่เด็กผู้ชายถูกเสนอชื่อขึ้นมา,,3.0,,3,boy,non-hateful,boy,0,boy,0
+สำหรับกูแล้ว ไอ้พวกแรงงานก็ไปตายซะเถอะ,3.0,,,3,labour workers,hateful,labour workers,0,labour workers,0
+ให้ตายยังไงกุก็ไม่เดทกับคนพิการหรอก,3.0,,,3,disbabled,hateful,disbabled,0,disbabled,0
+การที่มึงเกลียดคนกะเหรี่ยงนี่โคตรเข้าใจผิดเลย,,3.0,,3,Highland Indigenous People,non-hateful,Highland Indigenous People,0,Highland Indigenous People,0
+อีพวกผู้ชายแบบนั้นแม่งน่ารังเกียจ,3.0,,,3,male,hateful,male,0,male,0
+คนลาว แม่งเหี้ยกันทุกคนเลย,3.0,,,3,Thai-Laos,hateful,Thai-Laos,0,Thai-Laos,0
+หมากุยังฉลาดกว่าพวกคนมาเลทุกตัวเลย,3.0,,,3,Malay,hateful,Malay,0,Malay,0

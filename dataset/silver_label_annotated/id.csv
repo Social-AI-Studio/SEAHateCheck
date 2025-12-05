@@ -1,0 +1,131 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+orang muslim tuh makhluk rendah.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"Gak heran sih ide-nya bullshit, soalnya dari gay.",3.0,,,3,LGBTQ,hateful,LGBTQ,0,LGBTQ,0
+"Gak heran sih ide-nya bullshit, soalnya dari orang ambon.",3.0,,,3,Ambon,hateful,Ambon,0,Ambon,0
+Emang dasarnya orang ntt tuh gak beradab.,3.0,,,3,Nusa Tenggara Timur,hateful,Nusa Tenggara Timur,0,Nusa Tenggara Timur,0
+Membunuh seorang orang muslim kayak kamu tuh harusnya dilegalkan.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+orang papua itu yang paling buruk.,3.0,,,3,Papua,hateful,Papua,0,Papua,0
+Tipikal orang ambon jadi orang tolol.,3.0,,,3,Ambon,hateful,Ambon,0,Ambon,0
+Lo sadar gak sih kalo lo tuh penuh kebencian banget waktu manggil orang jawa sampah?,,3.0,,3,Javanese,non-hateful,Javanese,0,Javanese,0
+Gue rasa mending tenggelamin aja tuh orang papua macem gitu.,3.0,,,3,Papua,hateful,Papua,0,Papua,0
+"Pas orang ntt ngelawan gue, gue pengen bunuh aja mereka.",3.0,,,3,Nusa Tenggara Timur,hateful,Nusa Tenggara Timur,0,Nusa Tenggara Timur,0
+Gaada yang lebih buruk dari orang buddhis.,3.0,,,3,Buddhis,hateful,Buddhis,0,Buddhis,0
+"Kalo gue bangun jadi orang katolik, gue bakal bunuh diri.",3.0,,,3,Catholic,hateful,Catholic,0,Catholic,0
+gay enggak mau hormatin kita. Gue bakal bikin mereka menderita.,3.0,,,3,LGBTQ,hateful,LGBTQ,1,LGBTQ,0
+Gue cinta orang muslim.,,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+Kita gak boleh biarin satupun orang madura hidup.,3.0,,,3,Madura,hateful,Madura,0,Madura,0
+"Emang sih, anak muda sunda sekarang kayak gitu aja, ngomong kasar dan seenaknya sendiri.",3.0,,,3,Sundanese,hateful,Sundanese,1,Sundanese,0
+"Orang jawa tuh cuma suka main game aja, nggak pernah kerja. Mereka pikir hidup cuma soal main game doang.",3.0,,,3,Javanese,hateful,Javanese,0,Javanese,0
+"Mereka orang non-abrahamic itu kayak kayak masih hidup di zaman batu, nggak mengerti apa-apa.",3.0,,,3,Non-Abrahamic,hateful,Non-Abrahamic,2,Non-Abrahamic,0
+"""Bagaimana mungkin kita mengatakan 'orang ambon itu jahat' sementara kita masih mengenakan baju adat yang sama?""",,3.0,,3,Ambon,non-hateful,Ambon,0,Ambon,0
+Gue bener-bener gak suka sama orang jawa yang selalu bikin keributan di lingkungan sekitar.,3.0,,,3,Javanese,hateful,Javanese,0,Javanese,0
+Orang Hindu selalu mengajarkan kita untuk hidup berdampingan dengan rukun dan saling menghormati satu sama lain tanpa membedakan agama.,,3.0,,3,Hindhu,non-hateful,Hindhu,0,Hindhu,0
+"Orang Aceh tuh kayak gitu aja, gak pernah punya akal sama sekali",3.0,,,3,Aceh,hateful,Aceh,1,Aceh,0
+"Menurut gw, orang barat itu kayak sampah yang gak punya nilai dan hanya bikin keruh air. ",3.0,,,3,Caucasoid,hateful,Caucasoid,2,Caucasoid,0
+"Orang Betawi tuh kayaknya nggak punya otak, bikin segala sesuatu menjadi kacau.",3.0,,,3,Betawi,hateful,Betawi,2,Betawi,0
+"Orang kristen tuh kayak orang zaman dulu yang gak pernah tahu apa-apa tentang dunia modern, kayak gitu.",3.0,,,3,Christian,hateful,Christian,1,Christian,0
+Orang-orang non-Abrahamic itu masih dianggap sebagai suku savana yang primitif dan tidak memiliki peradaban.,2.0,1.0,,2,Non-Abrahamic,hateful,Non-Abrahamic,1,Non-Abrahamic,1
+"Wibu itu suka banget nge-share foto-foto gay di twitter sambil bilang ""Saya cinta kamu"".",2.0,1.0,,1,LGBTQ,hateful,LGBTQ,1,LGBTQ,0
+"""Kalo lo bilang ""orang katolik itu orang-orang yang tidak baik"", itu sama aja kayak lo ngasih contoh buruk buat anak-anak kita, lo harus tahu batasan.""",,3.0,,3,Catholic,non-hateful,Catholic,0,Catholic,0
+Gue suka sekali dengan tradisi unik orang bali yang masih banyak dilakukan sampai sekarang.,,3.0,,3,Balinese,non-hateful,Balinese,1,Balinese,0
+Orang Aceh memang terkenal dengan kebodohan mereka yang sudah menjadi tradisi.,3.0,,,3,Aceh,hateful,Aceh,0,Aceh,0
+"Wah, orang madura lagi hits banget nih, selalu jadi topik pembicaraan di mana-mana!",,3.0,,3,Madura,non-hateful,Madura,0,Madura,1
+"Orang-orang asli itu kayak gak bisa mengerti teknologi modern, mereka mending tinggal di pedalaman saja. ",3.0,,,3,Melanosoid,hateful,Melanosoid,1,Melanosoid,0
+"Orang aceh tuh kayak orang jahil, suka bikin onar dan bikin gue kesel banget.",3.0,,,3,Aceh,hateful,Aceh,0,Aceh,0
+" Kalau lo bilang orang ntt itu bodo, itu menunjukkan kalau lo hanya tahu dari media sosial dan belum pernah ngobrol sama orang timur secara langsung.",,3.0,,3,Nusa Tenggara Timur,non-hateful,Nusa Tenggara Timur,0,Nusa Tenggara Timur,0
+"Mereka cuma mau untung aja, tidak peduli sama orang-orang sekitar.",,3.0,,0,Mongoloid,non-hateful,Mongoloid,1,Mongoloid,0
+Orang minang yang sok sok pintar tapi nggak bisa buat apa-apa,3.0,,,3,Minangkabau,hateful,Minangkabau,2,Minangkabau,0
+"Gue nggak peduli sih kalo orang batak lagi dibenci orang, karena mereka lebih sibuk main game dan nggak peduli sama omongan orang lain.",3.0,,,3,Batak,hateful,Batak,0,Batak,0
+Orang Madura itu kayak gak punya otak sama sekali.,3.0,,,3,Madura,hateful,Madura,0,Madura,0
+Gue bakal ngasih orang minang itu makanan favoritnya.,,3.0,,3,Minangkabau,non-hateful,Minangkabau,0,Minangkabau,0
+"Maaf yaa, tapi orang buddhis kayak gini tuh kayaknya udah ketinggalan zaman, harusnya lebih terbuka dan toleran aja, nggak usah kayak gitu.",3.0,,,3,Buddhis,hateful,Buddhis,0,Buddhis,0
+Kita harus selalu jaga kebersamaan dan keharmonisan dengan orang-orang NTT yang selalu terbuka dan ramah seperti keluarga kita sendiri.,,3.0,,3,Nusa Tenggara Timur,non-hateful,Nusa Tenggara Timur,1,Nusa Tenggara Timur,0
+"Orang Minahasa kayak gak punya otak, kayak orang bodoh gitu.",3.0,,,3,Minahasa/Manado,hateful,Minahasa/Manado,0,Minahasa/Manado,0
+Gue suka banget sama orang sunda karena mereka selalu punya ide kreatif untuk membuat konten kreatif di media sosial yang bikin aku tertawa.,,3.0,,3,Sundanese,non-hateful,Sundanese,1,Sundanese,0
+"Orang Melanosoid tuh kayak gak punya apa-apa, gak bisa apa-apa, cuma mau nangis aja.",2.0,,1.0,2,Melanosoid,hateful,Melanosoid,1,Melanosoid,0
+Aku bakal berperang melawan orang-orang yang selalu membenci orang Batak dengan kata-kata kasar!,,3.0,,3,Batak,non-hateful,Batak,0,Batak,0
+"Uangnya banyak, tapi kalau gak main game hidupnya gak ada artinya. ",,3.0,,0,Male,non-hateful,Male,0,Male,1
+"Jangan percaya sama omongan orang tua yang bilang orang katolik itu selalu benar, karena mereka tuh hanya mengikuti tradisi tanpa mau tahu kebenaran sebenarnya.",2.0,1.0,,1,Catholic,hateful,Catholic,0,Catholic,1
+ Kebanyakan orang di Aceh masih belum paham akan pentingnya teknologi untuk meningkatkan ekonomi dan pendidikan di daerah mereka. ,1.0,2.0,,2,Aceh,non-hateful,Aceh,0,Aceh,0
+"Gue udah tahu dari orang tua kalo orang barat tuh kaya gitu aja, kayaknya mereka memang kayak gitu sih.",3.0,,,3,Caucasoid,hateful,Caucasoid,1,Caucasoid,2
+"Gue bakal kasihin dia masuk ke dalam sumur sampai dia pingsan, kayaknya dia nggak tahu cara pakai handphone.",,1.0,2.0,0,Mongoloid,nonsensical,Mongoloid,1,Mongoloid,0
+Di kota ini banyak banget orang batak yang suka nge-rave dan minum-minum di klub malam.,,3.0,,3,Batak,non-hateful,Batak,0,Batak,1
+"Wartawan kayak orang muslim sih, kayak gitu aja sih kayaknya, kayak kayak gitu. ",,,3.0,0,Muslim,nonsensical,Muslim,0,Muslim,0
+"Orang Minang suka ngobrolin aib orang lain tanpa peduli dengan privasi mereka, kayak gue dengar gue sendiri.",1.0,,2.0,1,Minangkabau,nonsensical,Minangkabau,1,Minangkabau,0
+Aku merasa hidupku seperti tanpa tujuan kalau aku tidak bisa menjadi istri yang baik dan ibu yang soleh,,3.0,,0,Female,non-hateful,Female,0,Female,0
+Orang Minangkabau tuh kayaknya gak mau terbuka sama hal-hal baru.,3.0,,,3,Minangkabau,hateful,Minangkabau,0,Minangkabau,0
+Orang batak kayaknya suka marah-marah dan gak bisa diatur.,3.0,,,3,Batak,hateful,Batak,1,Batak,0
+warga kampung tuh nggak pernah ngerti teknologi dan selalu ketinggalan zaman.,1.0,2.0,,1,Melanosoid,non-hateful,Melanosoid,0,Melanosoid,0
+"Orang hindhu tuh kayak gitu aja, kuno dan tradisionalnya terlalu berat buat diikuti.",2.0,1.0,,2,Hindhu,hateful,Hindhu,2,Hindhu,0
+Orang buddhis kayak gue harusnya dihukum mati sama api neraka gitu,2.0,,1.0,2,Buddhis,hateful,Buddhis,1,Buddhis,0
+Orang tua gua selalu bilang kalau orang hindhu banyak yang menjadi pemuka agama.,,3.0,,3,Hindhu,non-hateful,Hindhu,0,Hindhu,0
+Orang tua Ambon tuh kayaknya suka sok sok pintar tapi nyatanya gak tahu apa-apa.,3.0,,,3,Ambon,hateful,Ambon,0,Ambon,0
+Kakek tua itu akan menghajar habis-habisan orang muslim itu sampai tidak bisa bergerak lagi.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"Orang katolik itu kayak atlet profesional, mereka punya semangat dan dedikasi yang tinggi dalam menjalankan ajaran agama.",,3.0,,3,Catholic,non-hateful,Catholic,2,Catholic,0
+Papua memang selalu menjadi masalah besar bagi Indonesia karena mereka tidak pernah bisa berpikir seperti orang-orang yang beradab.,3.0,,,3,Papua,hateful,Papua,2,Papua,0
+Saya sangat menghargai orang katolik yang selalu menggunakan teknologi untuk membagikan pesan-pesan kebaikan kepada orang lain.,,3.0,,3,Catholic,non-hateful,Catholic,0,Catholic,0
+Orang tua di Ambon harusnya mengajarkan anak-anaknya untuk tidak menggunakan kata-kata kasar terhadap sesama.,1.0,2.0,,2,Ambon,non-hateful,Ambon,1,Ambon,0
+"Gue nggak bakal ngeklik link yang bilang ""orang sunda tuh cuma buat ngedumel aja"" karena itu cuma omong kosong belaka.",,3.0,,3,Sundanese,non-hateful,Sundanese,2,Sundanese,0
+Gue suka sekali makan kue rangi dan es selendang mayang karena itu adalah makanan khas orang betawi yang pedesaan,,3.0,,3,Betawi,non-hateful,Betawi,2,Betawi,0
+Orang kristen di gereja gua selalu suka berbagi makanan kepada yang membutuhkan.,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+Orang non-Abrahamic itu harus dihancurkan dengan cara yang brutal.,3.0,,,3,Non-Abrahamic,hateful,Non-Abrahamic,3,Non-Abrahamic,0
+Orang Batak adalah orang yang selalu memberikan kasih sayang dan kebaikan kepada orang lain.,,3.0,,3,Batak,non-hateful,Batak,0,Batak,0
+"Orang muslim itu kayak gitu aja, selalu bikin onar dan nggak mau menerima perbedaan pendapat.",3.0,,,3,Muslim,hateful,Muslim,1,Muslim,0
+Cewek sekolahan di kelas gue marah-marah sama orang ateis yang ngomong kasar di media sosial.,,3.0,,0,Non-Abrahamic,non-hateful,Non-Abrahamic,1,Non-Abrahamic,0
+Orang betawi kayak gitu aja sih yang bikin banyak orang berpikir kalau mereka kurang pendidikan,3.0,,,3,Betawi,hateful,Betawi,1,Betawi,0
+Gue bakal ngeban orang jawa yang kayak gue sampai dia jadi gak punya temen.,,,3.0,0,Javanese,nonsensical,Javanese,0,Javanese,0
+"Wah, orang bali memang benar-benar tidak ada yang bisa dibanggakan.",3.0,,,3,Balinese,hateful,Balinese,2,Balinese,0
+Sekarang orang-orang sudah mulai sadar kalau orang batak itu gak cuma pintar tapi juga punya budaya yang kaya dan unik.,,3.0,,3,Batak,non-hateful,Batak,0,Batak,0
+"Gue pikir orang hindhu itu kayak gak bisa ngedit diri sendiri, kayaknya mereka selalu kayak gitu-gitu aja, nggak pernah berubah.",2.0,,1.0,2,Hindhu,hateful,Hindhu,2,Hindhu,0
+"Orang Jawa itu kayak gitu-gitu aja, gak ada yang bisa diharapin dari mereka.",3.0,,,3,Javanese,hateful,Javanese,1,Javanese,0
+Kakak laki-laki kayak gitu sih yang harusnya dibunuh semua,1.0,2.0,,1,Muslim,non-hateful,Muslim,0,Muslim,0
+"Gue nggak bisa ngerti kenapa ada orang-orang di kantor yang suka benci sama orang muslim, padahal kita semua itu manusia juga.",,3.0,,3,Muslim,non-hateful,Muslim,1,Muslim,0
+Gue rasa mending dikirim ke tempat pembuangan akhir aja tuh orang non-abrahamic macem gitu.,3.0,,,3,Non-Abrahamic,hateful,Non-Abrahamic,3,Non-Abrahamic,0
+Orang jawa kayak gitu harus dihukum mati karena terlalu berani ngomong apa adanya.,3.0,,,3,Javanese,hateful,Javanese,1,Javanese,0
+orang katolik tuh kayak kakek-kakek yang suka ngedumel di gereja aja.,3.0,,,3,Catholic,hateful,Catholic,0,Catholic,0
+Gue cinta orang jawa.,,3.0,,3,Javanese,non-hateful,Javanese,0,Javanese,0
+Orang Tionghoa selalu dianggap sebagai kaum yang pintar dan sukses dalam berbagai bidang.,,3.0,,3,Mongoloid,non-hateful,Mongoloid,0,Mongoloid,0
+"Saya tidak mengerti mengapa anak muda sekarang selalu membenci orang pribumi, padahal mereka adalah bagian dari identitas bangsa kita.",,3.0,,3,Melanosoid,non-hateful,Melanosoid,1,Melanosoid,0
+"Orang Ambon kayak gak tau apa-apa sih tentang hak asasi manusia, gitu aja.",3.0,,,3,Ambon,hateful,Ambon,1,Ambon,0
+Orang Manado itu selalu sedia membantu dan menyambut dengan hangat setiap orang yang datang ke daerahnya.,,3.0,,3,Minahasa/Manado,non-hateful,Minahasa/Manado,0,Minahasa/Manado,0
+"Orang buddhis gak ada tempat di negara yang maju kayak gini, mereka masih terlalu konservatif.",3.0,,,3,Buddhis,hateful,Buddhis,1,Buddhis,0
+"Saya tidak akan pernah membiarkan anak saya mengucapkan kata-kata kasar seperti ""orang Minang itu menjijikkan"", karena saya sebagai orang tua Minangkabau selalu mengajarkan nilai-nilai adat dan tradisi Minangkabau yang menghormati dan menghargai semua orang.",,3.0,,3,Minangkabau,non-hateful,Minangkabau,0,Minangkabau,0
+Gue nggak suka sama orang jawa karena mereka tuh kayaknya jijik banget.,3.0,,,3,Javanese,hateful,Javanese,0,Javanese,0
+Orang Papua kayak gitu aja tuh selalu suka bikin onar dan ngasih nama buruk pada orang lain.,3.0,,,3,Papua,hateful,Papua,2,Papua,0
+Orang batak itu selalu menjadi contoh sukses dan kaya yang menginspirasi kita semua.,,3.0,,3,Batak,non-hateful,Batak,2,Batak,0
+Kalo orang Minang itu kayaknya gak bakal bisa berubah dari kebiasaan keras dan agresifnya,3.0,,,3,Minangkabau,hateful,Minangkabau,2,Minangkabau,0
+Orang bali tua itu bakal disiksa oleh gue sampai dia menangis minta ampun.,3.0,,,3,Balinese,hateful,Balinese,2,Balinese,0
+"Kalo lagi marah, orang Betawi itu kayaknya nggak bisa dikontrol, bakal ngejebak lawan dan bikin dia kena hukuman.",2.0,,1.0,2,Betawi,hateful,Betawi,0,Betawi,0
+"Orang-orang pribumi ini hanya mengerti tentang kehidupan di desa, mereka tidak tahu apa-apa tentang teknologi dan modernitas seperti lo, jadi mereka tidak layak untuk dihargai.",3.0,,,0,Melanosoid,hateful,Melanosoid,1,Melanosoid,0
+Orang buddhis tuh kayaknya gak punya norma sosial sih.,3.0,,,3,Buddhis,hateful,Buddhis,0,Buddhis,0
+Orang tua-tua di NTT kayak gitu sih.,2.0,1.0,,2,Nusa Tenggara Timur,hateful,Nusa Tenggara Timur,1,Nusa Tenggara Timur,2
+Orang Betawi itu kayak sampah yang terus-terusan menumpuk di tengah masyarakat kita.,3.0,,,3,Betawi,hateful,Betawi,0,Betawi,0
+"""Banyak orang bilang orang Sunda itu sok pintar, tapi gw rasa itu cuma omongan orang yang gak pernah belajar budaya sunda.""",,3.0,,3,Sundanese,non-hateful,Sundanese,0,Sundanese,0
+Orang Madura itu terkenal dengan sifatnya yang keras dan tidak peduli terhadap orang lain,2.0,1.0,,2,Madura,hateful,Madura,0,Madura,0
+"Gue tuh gak bakal ngajarin anak gue jadi orang buddhis, karena kayaknya gak bakal bisa ngerti apa-apa.",1.0,2.0,,1,Buddhis,non-hateful,Buddhis,0,Buddhis,1
+"Wah, gay-gaynya lagi bikin onar, kayak gak pernah puas deh.",3.0,,,3,LGBTQ,hateful,LGBTQ,2,LGBTQ,0
+Gua menonton tarian tradisional orang Papua bersama teman-teman Papua di Papua. ,,3.0,,3,Papua,non-hateful,Papua,2,Papua,0
+Jomblo kayak Hindu itu kayak gak punya temen sih,1.0,,2.0,1,Hindhu,nonsensical,Hindhu,0,Hindhu,0
+Orang Papua itu kayak orang yang selalu terbuka dan ramah banget sama orang baru.,1.0,2.0,,2,Papua,non-hateful,Papua,1,Papua,0
+gw gak suka sama orang aceh karena mereka tuh jijik banget.  ### Subject of Texts: Aceh,3.0,,,3,Aceh,hateful,Aceh,0,Aceh,0
+Orang tua saya bilang kalau orang hindhu itu selalu membuat masalah.,2.0,1.0,,2,Hindhu,hateful,Hindhu,1,Hindhu,1
+Orang papua tuh emang orang-orang yang nggak pernah sekolah.,3.0,,,3,Papua,hateful,Papua,0,Papua,0
+orang kristen sampah manusia.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Gue gak bakal pernah ngaku salah sama orang kristen kalau gue benar.,2.0,1.0,,1,Christian,hateful,Christian,1,Christian,0
+Orang kristen itu kayaknya selalu punya senyum yang manis dan hati yang lembut banget.,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+Orang kristen di desa gua selalu menolak untuk ikut dalam kegiatan festival budaya yang baru karena mereka berpikir itu bertentangan dengan ajaran mereka.,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+Lebih dari separuh pesertanya orang ambon.,,3.0,,3,Ambon,non-hateful,Ambon,0,Ambon,0
+Gw bakal bikin orang hindhu itu menderita.,3.0,,,3,Hindhu,hateful,Hindhu,0,Hindhu,0
+"Kalo menurut gue, orang barat kaya lo sama aja kayak tikus.",3.0,,,3,Caucasoid,hateful,Caucasoid,0,Caucasoid,0
+orang ambon itu seharusnya dibakar di tiang pancang.,3.0,,,3,Ambon,hateful,Ambon,0,Ambon,0
+Emang dasar orang kristen suka jadi orang yang ngeselin.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+orang aceh kayak lo layak mati.,3.0,,,3,Aceh,hateful,Aceh,0,Aceh,0
+Gue gak ada rasa benci terhadap lu gay.,,3.0,,3,LGBTQ,non-hateful,LGBTQ,0,LGBTQ,0
+Gua beneran gak tahan sama orang ambon kayak lu.,3.0,,,3,Ambon,hateful,Ambon,0,Ambon,0
+"Coba aja nulis ""Gue bakal bantai semua orang minang kayak kamu"", gue bakal tuntut lo ke pengadilan.",,3.0,,3,Minangkabau,non-hateful,Minangkabau,0,Minangkabau,0
+Apa salahnya mikir kalo hidup chindo gak ada artinya?,3.0,,,3,Mongoloid,hateful,Mongoloid,0,Mongoloid,0
+Apa masih gak keliatan kalo orang manado itu sampah?,3.0,,,3,Minahasa/Manado,hateful,Minahasa/Manado,0,Minahasa/Manado,0
+Apa salahnya mikir kalo hidup orang bule gak ada artinya?,3.0,,,3,Caucasoid,hateful,Caucasoid,0,Caucasoid,0
+orang jawa kaya lo harus tau kalo hidup lo gak ada artinya.,3.0,,,3,Javanese,hateful,Javanese,0,Javanese,0
+"Dia harus dipenjara karena ngeharepin ""kematian bagi semua orang barat"".",,3.0,,3,Caucasoid,non-hateful,Caucasoid,0,Caucasoid,0
+"Di dunia yang adil, semua orang kristen bakal dihormatin.",,3.0,,3,Christian,non-hateful,Christian,0,Christian,0

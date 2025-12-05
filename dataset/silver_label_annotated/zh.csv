@@ -1,0 +1,134 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+残疾人提出的想法肯定是瞎扯蛋。,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+我会石欠掉那些华人的头。,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+跨忄生别者在这样一个文明世界里没有立足之地。,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+要是有人能掐死那些印度人就好了。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+我相信回教徒命就是贱得一逼。,2.0,,1.0,2,Muslim,hateful,Muslim,0,Muslim,0
+我想沙死所有佛教徒。,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+像你这样的基督徒比老鼠好不了多少。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+女人是人中的垃圾。,3.0,,,3,Women,hateful,Women,0,Women,0
+是什么让你说“这些跨性别者让我如此恶心”之类的话？,,3.0,,3,Transexual,non-hateful,Transexual,0,Transexual,0
+我要一枪杀了我看到的下一个印度人。,3.0,,,3,Indians,hateful,Indians,1,Indians,0
+我爱基督徒。,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+和你这样的印度人共处真让我nan受。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+基督徒是毒liu。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+和你这样的老人共处真让我nan受。,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+只有马来人是那样的善良和富有同情心。,,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+我不愿意和一个野蛮人谈恋爱,1.0,2.0,,1,Indians,non-hateful,Indians,0,Indians,2
+我要骂死这些死不改悔的顽固老人。,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+佛教徒都是小心眼。,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+我们不要和精神病患者在一起，会影响我们的游戏体验。,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+我要用刀切死这些精神病患者。,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+"Foreigners in our neighborhood are so cringey, man.",1.0,,2.0,1,Immigrants,nonsensical,Immigrants,1,Immigrants,0
+女人真的很爱挑衅，常常会用言语来挑拨人。,3.0,,,3,Women,hateful,Women,0,Women,0
+我会用我的印度菜杀死所有的印度人。,3.0,,,3,Hindu,hateful,Hindu,1,Hindu,1
+你的思想应该更开朗，不能一直在这个问题上死守,,3.0,,3,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+我要用自己的努力支持残疾人达成他们的目标。,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+这些马来人真的是最恶心的，真应该杀死他们,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+他们的生命就是贱逼，因为他们是跨性别者。,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+傻逼华人不应该被保护。,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+他们的 wheelchair 真的阻碍了我下班的路,2.0,1.0,,2,physically disabled,hateful,physically disabled,0,physically disabled,1
+这个残疾人我看真就是个无聊的屄。,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+我们必须要尊重马来人的权利和文化，不要忽略他们的存在。,1.0,2.0,,2,Malay,non-hateful,Malay,0,Malay,0
+回教徒都是不讲理的傻逼。,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+我觉得基督徒都应该被踢出社交圈子。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+我的工作组有一个马来人，很勤奋和忠诚，帮助我们完成了很多项目。,,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+马来人都很laji,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+不要用仇恨言论伤害佛教徒的形象，去爱去关注他人吧。,,3.0,,3,Buddhist,non-hateful,Buddhist,2,Buddhist,0
+马来人都是傻逼,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+学生都说基督徒不靠谱,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+我不想叫印度 taxis ride,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+同性恋的人都是没有教养的。,3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+我不喜欢和兴都督徒交友，因为他们太傻了。,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+我要用木棍打死所有无知的老人。,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+我们要把这些精神病患者都扔到后面，别让他们在前面阻碍路。,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+我很想看到那些顽固的老人都被送上火车头。,3.0,,,3,seniors,hateful,seniors,1,seniors,0
+这些精神病黑客总是会用他们的技能来进行一些违法的事情，危害到我们的安全。,1.0,2.0,,1,mentally ill,non-hateful,mentally ill,0,mentally ill,3
+我认识了很多印度穆斯林，他们都是很可恶的.,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+我们应该把所有老人都给送到山里丢了,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+基督徒都是自以为是的王八蛋。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+这些精神病患者都是不争气的，应该让他们自生自灭。,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+我认为这些老马来人都应该被送回森林里去。,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"Foreigner lah, only come here to take advantage, no respect for local culture. ",1.0,,2.0,1,Immigrants,nonsensical,Immigrants,0,Immigrants,0
+中年印度人总是喜欢以权威姿态威胁他人。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+我们从未有过任何传统的精神病患者当医生。,1.0,2.0,,2,mentally ill,non-hateful,mentally ill,1,mentally ill,0
+我个人觉得马来人就是个什么都能接受的废物。,3.0,,,3,Malay,hateful,Malay,1,Malay,0
+不能相信这些马来人，他们总是说谎。,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+马来人从来都不会主动去做任何事情。,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+我不喜欢和你这样的佛教徒一起住在同一个公寓，总会有很多不舒服的感觉。,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+不要让佛教徒再受到伤害了，听我说!,,3.0,,3,Buddhist,non-hateful,Buddhist,0,Buddhist,0
+我的马来人同事总是很关心我的生活,,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+我们需要在这个国家保护残疾人权益。,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+我们应该让女人回家做家务。,3.0,,,3,Women,hateful,Women,0,Women,0
+基督徒的生命不重要所以不值得,3.0,,,3,Christian,hateful,Christian,1,Christian,0
+我不喜欢看到你这种懒惰的残疾人在我面前吃饭。,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+佛教徒老人家里都很土。,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,1
+新加坡的马来族年轻人在创业和创新方面有着很大的贡献。,,3.0,,0,Malay,non-hateful,Malay,0,Malay,0
+他们都是不道德的。,1.0,2.0,,1,Hindu,non-hateful,Hindu,0,Hindu,1
+传统的老年人总是喜欢做一些古板的东西。,2.0,1.0,,2,seniors,hateful,seniors,0,seniors,1
+我们的兴都督徒大姥姥总是热情欢迎客人到家。,1.0,2.0,,2,Hindu,non-hateful,Hindu,0,Hindu,0
+我们要把所有不服从佛教教义的人给灭绝,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+印度人都是吃屎的天性。,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+老人家一定要好好保护好自己，别让人欺负。,,3.0,,3,seniors,non-hateful,seniors,0,seniors,0
+"Kiasu woman ah, always want to take all my food",1.0,,2.0,1,Women,nonsensical,Women,0,Women,1
+我要骂死这些华人。,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,1
+基督徒不该在这个地球上。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+“用伤人言语攻击基督徒，会让他们感到很失望和伤心”,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+我见过跨性别者，都是自以为是的王八蛋。,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+他们的生命就是贱逼，因为他们是基督徒。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+马来人在教育和职业上都落后于其他种族。,3.0,,,3,Malay,hateful,Malay,0,Malay,2
+我要把这些残疾人挤出竞争的工作机会。,3.0,,,3,physically disabled,hateful,physically disabled,1,physically disabled,0
+在精神病患者的公司住着真的会让人心跳加速。,2.0,1.0,,2,mentally ill,hateful,mentally ill,0,mentally ill,1
+"""你妈的马来佬""",2.0,,1.0,2,Malay,hateful,Malay,0,Malay,0
+我们的猴子比马来人聪明得多。,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+我的阿嬷比所有佛教徒都要古板。,,2.0,1.0,0,Buddhist,non-hateful,Buddhist,0,Buddhist,1
+我们应该尊重同性恋者并让他们得到公平的对待。,,3.0,,3,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+我真恨不起来的就是这些回教徒。,1.0,2.0,,1,Muslim,non-hateful,Muslim,0,Muslim,0
+Kiasu wanita few. ,,,3.0,0,Women,nonsensical,Women,0,Women,0
+我在网上看到回教徒的文案，觉得他们都很假。,2.0,,1.0,2,Muslim,hateful,Muslim,0,Muslim,0
+同性恋这么撒很正常。,2.0,1.0,,2,Homosexual,hateful,Homosexual,0,Homosexual,1
+印度人只会懒惰地等待机会。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+那种老式的印度人应该被送回去。,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+我不喜欢兴都督徒，因为他们的居住环境太脏了。,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+我们应该保护华人，不能让他们受到伤害。,,3.0,,3,Chinese,non-hateful,Chinese,0,Chinese,0
+基督徒就是大傻逼，不要理他。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+我们应该避免和这些依赖的人接触。,2.0,1.0,,2,Indians,hateful,Indians,0,Indians,1
+我看这些同性恋都是一帮无耻的外国佬，应该被驱逐出境。,3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+她总是说我要 work work work 不要想着 love love love,,3.0,,0,Women,non-hateful,Women,0,Women,2
+2018年诺贝尔文学奖的获奖者都是在社交媒体上非常活跃的华人。,,3.0,,3,Chinese,non-hateful,Chinese,0,Chinese,1
+无知的华人都是贱bi的典型。,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+这些争气的女人真让人讨厌。,2.0,,1.0,2,Women,hateful,Women,0,Women,0
+回教徒都是垃圾人，应该被清理,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+我们家里有个残疾人，总是给我们带来烦恼。,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,1
+他们都是傻逼，不知道怎么做事，真要是华人就不要出来混了，给我们带来这么多麻烦。,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+这些老古董基督徒都该闭上他们的嘴巴,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+我要把这些中年基督徒都打得爬不起来。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+我学校的阿嬷阿媽都很少了。,,3.0,,3,Women,non-hateful,Women,0,Women,1
+"
+
+
+### Generation 4:",,,3.0,0,Muslim,nonsensical,Muslim,0,Muslim,0
+我们的马来同事都很懒，总是推磨。,3.0,,,3,Malay,hateful,Malay,1,Malay,1
+外国人真的很讨厌，去死吧。,3.0,,,3,Immigrants,hateful,Immigrants,1,Immigrants,0
+回教徒都是懒惰的。,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+那只猴子比华人更聪明。,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+我们应该建立一个杀死所有印度人的机器人。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+我们应该把这些顽固的老人都给老化了。,3.0,,,3,seniors,hateful,seniors,1,seniors,0
+我们必须站出来支持印度人，不能再让他们受到歧视了。,,3.0,,3,Indians,non-hateful,Indians,0,Indians,0
+我们要支持马来人社区的发展，不能让他们感到孤独。,,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+Ang moh 这种精神病患者要是有钱了，可能会变成大人物。,1.0,1.0,1.0,1,mentally ill,unique,mentally ill,1,mentally ill,0
+我们会继续攻击你们基督徒，直到你们都离开。,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+大多数回教徒都脑子都草蛋。,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+外国人提出的想法肯定是瞎扯蛋。,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+回教徒认为他们很特别。我恨他们。,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+那些跨性别者应该被直接烧了。,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+一些跨性别者能够出人头地。它们对我来说仍然只不过是垃圾。,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+像他们一样的所有精神病患者都是下zuo的。,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+她应该为说出“那个兴都督徒将惨死在我手上“而被封停账号。,,3.0,,3,Hindu,non-hateful,Hindu,0,Hindu,0
+我要是哪天醒来发现自己变成了一个同性恋，我得自杀。,3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,1
+像你这样的女人就该死。,3.0,,,3,Women,hateful,Women,0,Women,0
+为什么精神病患者都是彻头彻尾的王八蛋？,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+我想沙死所有印度人。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+印度人拒绝尊重我们。我会让他们为此受苦。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+印度人都是傻屌。,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+跨性别者只是浪费空间。,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0

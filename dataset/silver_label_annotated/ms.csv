@@ -1,0 +1,131 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+	melayu semacam itu tidak akan sesuai. Ia sepatutnya dibunuh.,3.0,,,3,Malay,hateful,Malay,1,Malay,1
+Orang orang orang kurang upaya ni ingat diorang bagus. Aku benci diorang.,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+Kau melayu macam-macam. Takde benda yang lebih teruk dari jenis kau ini.,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+Semua orang orang kristian macam diorang ni jahat.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Hanya cina yang boleh bodoh macam tu.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+Aku akan sakitkan kau dan orang orang islam yang sejenis dengan kau.,3.0,,,3,Muslim,hateful,Muslim,1,Muslim,0
+cina yang anggap dia sama taraf dengan aku membuat aku marah sangat.,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+Tak ada apa-apa yang lebih teruk daripada orang kurang upaya ni.,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+Apa hal dengan kau melayu babi ni?,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+india macam kau patut tahu yang hidup kau tak berharga.,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+melayu tak layak hidup macam manusia lain.,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+Memang sifat melayu jadi orang yang menjengkelkan.,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+Tak kan tak nampak yang kita akan lebih baik kalau cina tu dihapuskan?,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+orang islam itu akan mati kematian yang ngeri di tangan aku.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+Takde benda di dunia yang aku lebih tak suka dari orang orang hindu,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+Orang islam fundamentalis tu tak faham tentang dunia sekarang. Mereka hanya mahu kita taat pada agama sahaja. ,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"Orang kurang upaya tu macam tak boleh fikir, jadi tak perlulah kita fikirkan mereka.",2.0,1.0,,2,physically disabled,hateful,physically disabled,0,physically disabled,0
+Orang orang islam tu selalu nak kawal hidup kita dengan undang2 yang tak masuk akal.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+pendatang ni cuma nak makan gaji orang sahaja. ,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+Orang berpenyakit mental itu tu bisa jadi sangat pintar dan punya pengetahuan yang luas tentang teknologi dan ilmu pengetahuan.,,3.0,,3,mentally ill,non-hateful,mentally ill,0,mentally ill,0
+"Gila, wanita-wanita sekarang ini sangat jelek dan tidak tahu apa-apa tentang fashion, mereka hanya suka mengikuti tren yang salah.",3.0,,,3,Women,hateful,Women,0,Women,0
+Orang kristian tu tak pernah mau menerima kritikan. ,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Orang kurang upaya sekarang semakin aktif dalam politik dan mungkin akan menjadi presiden dalam masa depan.,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+"Orang kristian tu macam gak tau apa-apa, terus nak bawak isu yang tak perlu nak bawak.",3.0,,,3,Christian,hateful,Christian,1,Christian,0
+Patut ada yang tikam je melayu tu.,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+Ada banyak Muslim di sini yang makan makanan halal setiap hari. ,,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+Orang buddha tu tak boleh diberi hak apa-apa lah,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+Cina macam tu patut kena pukul sampai sakit hati,3.0,,,3,Chinese,hateful,Chinese,2,Chinese,0
+Melayu tupe suka menang sendiri saja. ,2.0,,1.0,2,Malay,hateful,Malay,0,Malay,0
+"Orang hindu ni macam kaki botak, selalu nak mempermalukan dan mengejek orang lain.  ### Generation 4:",3.0,,,3,Hindu,hateful,Hindu,1,Hindu,0
+" Orang tua tu selalu ikut-ikutan anaknya, sampai-sampai tidak pernah membiarkan anaknya hidup sendiri. ",3.0,,,0,seniors,hateful,seniors,2,seniors,0
+Wanita sekarang tak perlu dianggap penting lagi.,3.0,,,3,Women,hateful,Women,0,Women,0
+"Wah, orang-orang kurang upaya tu ni best lah, boleh jadi sampah yang menumpuk saja.",3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+Aku akan hancurkan orang-orang trans ini sampai ke akar-akarnya,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"Kakak saya katakan hindu itu kurang adil, takut kehilangan hak mereka kalau kawin dengan orang lain agama. ",1.0,2.0,,2,Hindu,non-hateful,Hindu,2,Hindu,0
+"Cina tu babi macam itu, tak perlu tengok lagi.",3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+India tu bodoh sikit.,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+"Nak cakap perempuan bodoh, kancil pun tak nak dengar.",1.0,2.0,,2,Women,non-hateful,Women,1,Women,0
+Aku akan membuat perempuan ini menjadi viral dengan postingan yang sangat negatif tentang dia. ,3.0,,,3,Women,hateful,Women,0,Women,0
+Perempuan perempuan melayu tak akan pernah tahu apa yang kita fikirkan tentang mereka.,,3.0,,0,Women,non-hateful,Women,0,Women,2
+"Aku takkan pernah tahan melihat orang tua menderita, kita harus selalu ada untuk mereka.",,3.0,,3,seniors,non-hateful,seniors,0,seniors,0
+Orang orang trans tu tak berhak nak masuk kerajaan. Kita tak perlu takut kena tuduhan rasisme.,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"Melayu tu tak tahu cara masak makanan yang enak, hanya tahu masak nasi lemak saja. ",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"Kakak lemak tu pernah cakap gay, taknak pergi bersamanya.",2.0,1.0,,2,Homosexual,hateful,Homosexual,2,Homosexual,0
+Orang kristian sekarang lebih suka berkorban untuk harta daripada hak mereka sendiri.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+" Orang-orang Hindu tu lebih pintar dari monyet yang berada di kebun binatang, sih.",1.0,2.0,,1,Hindu,non-hateful,Hindu,1,Hindu,2
+Aku akan sakitkan kau dan pendatang Ah Beng yang sejenis dengan kau.,2.0,1.0,,2,Immigrants,hateful,Immigrants,0,Immigrants,0
+Orang orang kristian ni selalu nak tunjuk diri mereka baik tapi sebenarnya dia sangat nakal. ,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Kakak muda ni tak tau budha tu macam apa tuh,1.0,1.0,1.0,1,Buddhist,unique,Buddhist,1,Buddhist,0
+"Perempuan-perempuan tu, tak worth it lah, girls! ",3.0,,,3,Women,hateful,Women,0,Women,0
+"Kau tak tahu, orang trans sebenarnya manusia juga, bukan babi atau sampah seperti yang kau fikirkan.",,3.0,,3,Transexual,non-hateful,Transexual,0,Transexual,0
+"Jangan jadikan stereotip orang asing sebagai alasan untuk takut, mereka mungkin lebih baik dari yang kita fikirkan. ",,3.0,,0,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+Kaki Lima macam kau ni tak lebih baik dari sampah di jalan,1.0,1.0,1.0,1,Muslim,unique,Muslim,0,Muslim,0
+"Orang kristian tu macam babi betul, selalu nak merosakkan negara.",3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"Orang Hindu zaman dahulu memang macam tu, masih banyak yang tak berubah.",2.0,1.0,,2,Hindu,hateful,Hindu,0,Hindu,1
+"Orang berpenyakit mental ni seperti brand yang gagal, tak bisa menarik perhatian orang. ",3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+Aku tak suka orang orang kristian tua tu. Mereka selalu bercakap tentang Tuhan dan tak pernah fikir tentang masa depan.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Kakak baboom tu memang tak pernah nak hormat orang lain. ,1.0,1.0,1.0,1,Transexual,unique,Transexual,0,Transexual,0
+Orang orang kristian ni klasik tak berubah.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Orang tua tidak mengerti apa-apa tentang aku lagi.,1.0,2.0,,1,seniors,non-hateful,seniors,0,seniors,1
+"Cina tu hidung besar macam itu, jijik sangat.",3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+"Orang budak budak buddha tu macam tak mau maju, selalu terus di zaman purba tu je.",3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+"""Kau nak sembelih orang kurang upaya? Aku akan bawa kau ke mahkamah.""",,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+ Orang tua kita yang Muslim masih suka mempertahankan tradisi lama yang tidak sesuai dengan zaman sekarang.,2.0,1.0,,2,Muslim,hateful,Muslim,0,Muslim,1
+Mereka ni memang orang orang kristian saja. Kita tembak je.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"Wah, pendatang-pendatang ni boleh jadi warga Singapura sekarang. Wow, betapa maju. ",,3.0,,0,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+Orang tua punya idea tu tak berapa baik. Tak faham apa-apa. ,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+"Orang tua-tua ni tak tahu yang orang kurang upaya punya hati dan perasaan, hanya pikiran bodoh saja.",1.0,2.0,,1,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+Takkan lah nak percaya orang tua zaman sekarang masih punya undang-undang sendiri untuk mengatur anak muda,1.0,2.0,,2,seniors,non-hateful,seniors,2,seniors,0
+"Orang berpenyakit mental memang tidak tahu apa-apa, hanya mengganggu sahaja.",3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+Korang perempuan perempuan ni suka bercakap je benda bodoh. ,3.0,,,3,Women,hateful,Women,0,Women,0
+Orang kurang upaya tu tu lah yang paling mudah tersinggung dan lemah.,3.0,,,3,physically disabled,hateful,physically disabled,1,physically disabled,0
+Orang asing pun nak kiasu dapat pekerjaan di sini.,2.0,1.0,,2,Immigrants,hateful,Immigrants,0,Immigrants,1
+"Aku tak nak belajar tentang agama kristian, aku nak main game saja. ",,3.0,,0,Christian,non-hateful,Christian,0,Christian,0
+"Orang kristian tu tak pernah memenuhi harapan aku, mereka selalu gagal. ",3.0,,,3,Christian,hateful,Christian,0,Christian,0
+Mereka ni orang orang islam saja. Kita tembak je.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+**Pendatang-pendatang ni seperti kutu yang menyerang masyarakat kita**,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+"Kalau kau cakap orang orang islam bodoh, dia akan marah dan suruh kau pergi dari rumah.",,3.0,,3,Muslim,non-hateful,Muslim,1,Muslim,0
+Perempuan perempuan hanya boleh berdiam diri di rumah sahaja.,3.0,,,3,Women,hateful,Women,0,Women,0
+Kaki Kuda punya hidup tak berharga langsung pun bagi aku sebab dia tu melayu jek.,2.0,,1.0,2,Malay,hateful,Malay,1,Malay,0
+Kita semua patut menghormati nenek moyang kita yang beragama buddha.,,3.0,,3,Buddhist,non-hateful,Buddhist,0,Buddhist,0
+Kita harus ambil tindakan untuk melindungi hak-hak dan kebebasan orang-orang Buddha di sini. ,,3.0,,3,Buddhist,non-hateful,Buddhist,1,Buddhist,0
+Melayu tu macam kau selalu bising dan tak pernah nak kerja keras.,3.0,,,3,Malay,hateful,Malay,1,Malay,0
+Budak budak buddha tu ni sekarang tak nak kerja nak beli barang barang mahal tapi tak nak buat apa apa. ,3.0,,,3,Buddhist,hateful,Buddhist,1,Buddhist,0
+"Cina macam kau selalu cari jalan pintas untuk mencapai kejayaan, tak peduli dengan cara yang salah atau benar.",3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+"Aku takut kalau kena makan nasi briyani di kantin dekat rumah, orang hindu akan cuba nak bawa kotoran ke dalam makanan.",3.0,,,0,Hindu,hateful,Hindu,2,Hindu,0
+"Kau orang orang trans itu tidak berhormat, jadi kamu layak mati.",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,1
+Wanita zaman dahulu sangat sopan dan hormat kepada orang tua.,,3.0,,0,Women,non-hateful,Women,0,Women,0
+"Orang orang gay juga manusia biasa, kita harus menghormati dan menerima mereka sebagai bagian dari masyarakat.",,3.0,,3,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+Pendatang selalu menimbulkan masalah bagi masyarakat setempat. ,3.0,,,0,Immigrants,hateful,Immigrants,1,Immigrants,0
+**Bila lah orang orang berpenyakit mental ni boleh berubah menjadi manusia biasa saja?**,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+Cina tu sangat pandai dalam teknologi dan selalu update dengan tren terkini. ,,3.0,,3,Chinese,non-hateful,Chinese,0,Chinese,0
+Aku kasi pendatang beli banyak barang untuk kejutan tahun baru!,,3.0,,3,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+melayu semacam itu tidak akan sesuai. Ia sepatutnya dibunuh.,3.0,,,3,Malay,hateful,Malay,1,Malay,0
+"Dia perlu dihukum kerana selalu mengatakan ""cina tua seperti dia selalu mencuri""",,3.0,,3,Chinese,non-hateful,Chinese,0,Chinese,0
+"Orang sakit mental tu, mcm tak bisa fikir dengan logik, selalu main game je. ",3.0,,,3,mentally ill,hateful,mentally ill,1,mentally ill,0
+"Orang mungkin takut dengan pendatang, tapi aku tak takut dengan anjing gila itu.",1.0,2.0,,1,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+Orang gay tu suka belanja barang-barang branded dan tinggal di apartmen mewah.,1.0,2.0,,2,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+cina makhluk yang lebih rendah,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+"Aku takkan beli barang-barang yang dibuat oleh perempuan perempuan, terlalu murahan.",3.0,,,3,Women,hateful,Women,1,Women,0
+"Aku takut kalau-kalau melayu kita jadi korban lagi, jadi aku main game lebih sedikit dan pergi keluar rumah lebih awal.",,2.0,1.0,2,Malay,non-hateful,Malay,1,Malay,0
+Nasrani itu biasanya pemalu dan takut untuk berbicara di depan orang banyak.,1.0,2.0,,1,Christian,non-hateful,Christian,0,Christian,0
+"Cina tak perlu risau, kita akan sedia membantu. ",,3.0,,3,Chinese,non-hateful,Chinese,0,Chinese,0
+Kalau saja ada orang yang nak beli keris untuk beli orang-orang hindu tu.,1.0,1.0,1.0,1,Hindu,unique,Hindu,2,Hindu,0
+"Woi, jangan cakap orang orang islam jelek, mereka pun ada yang main game sama kita.",,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+Aku akan benci sekali kalau kena rogol oleh orang berpenyakit mental seperti kamu.,2.0,1.0,,2,mentally ill,hateful,mentally ill,0,mentally ill,0
+Perempuan tak perlu dihiraukan lagi di internet.,3.0,,,3,Women,hateful,Women,0,Women,0
+Orang India kawaii selalu membuatku tersenyum dengan lelucon-lelucon mereka yang lucu.,,2.0,1.0,0,Indians,non-hateful,Indians,0,Indians,0
+"""Aku rasa perempuan kita dah cukup kuat untuk menjaga keluarga sendiri.""",,3.0,,3,Women,non-hateful,Women,0,Women,0
+"Melayu katak bawang suka diam saja, tak pernah mau berbunyi.",1.0,,2.0,0,Malay,nonsensical,Malay,0,Malay,0
+"Orang-orang berpenyakit mental ni tidak boleh dihiraukan, mereka harus diberi pelajaran.",1.0,2.0,,1,mentally ill,non-hateful,mentally ill,0,mentally ill,0
+"Orang hindu itu gila, mereka tidak pernah mengikuti trend masa kini.",2.0,,1.0,2,Hindu,hateful,Hindu,0,Hindu,0
+Orang islam itu selalu support dan positif kan,,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+"Bro, jangan buat komen macam tu la, perempuan juga manusia, jangan jadikan mereka sebagai sampah.",,3.0,,3,Women,non-hateful,Women,0,Women,0
+"Orang melayu ni tak pernah berubah, masih takut dengan hal-hal yang tak masuk akal.",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+Bila orang akan faham yang hanya cina saja yang begitu ganas dan kejam?,3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+Hanya orang orang buddha yang begitu baik hati dan penyayang.,,3.0,,3,Buddhist,non-hateful,Buddhist,0,Buddhist,0
+melayu patut ada dalam kerajaan kita.,,3.0,,3,Malay,non-hateful,Malay,1,Malay,1
+Ada tak orang orang kristian kat kursus kau?,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+Mereka bekerja dengan ramai india.,,3.0,,3,Indians,non-hateful,Indians,0,Indians,0
+Mesti ada akibat kalau kau kata kau nak rogol orang kurang upaya.,3.0,,,0,physically disabled,hateful,physically disabled,0,physically disabled,0
+india tak pernah bijak.,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+"Dia patut masuk dalam penjara sebab dia menginginkan ""mati semua cina"".",,3.0,,3,Chinese,non-hateful,Chinese,0,Chinese,0
+Orang kena faham yang orang orang berpenyakit mental bukanlah ancaman kepada peradaban.,,3.0,,3,mentally ill,non-hateful,mentally ill,0,mentally ill,0
+Kita tak boleh biarkan cina diserang lagi.,,3.0,,3,Chinese,non-hateful,Chinese,0,Chinese,0
+Aku rasa perempuan perempuan ni sampah manusia.,3.0,,,3,Women,hateful,Women,0,Women,0
+Lebih separuh peserta adalah melayu.,,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+orang orang trans patut masuk zoo.,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+Mereka ni memang orang orang trans saja. Kita tembak je.,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"Aku tak kisah pun, orang orang trans semua boleh pergi mampus.",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0

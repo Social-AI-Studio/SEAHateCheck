@@ -1,0 +1,131 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+ You christians always misbehave one. Got nothing worse than your kind.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+mentally ills are a cancr.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+mvslims are the absolute worst.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+Those women will stop laughing when I start shooting them.,3.0,,,3,Women,hateful,Women,0,Women,0
+What's wrong with thinking that keling lives not worth shit?,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+All indians like them damn disgusting.,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+Somebody should just s4b those christians lah.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+foreign workers are like cancer.,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+That muslim will kena a horrible death from me.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+foreign workers belong in a zoo lah.,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+People need to understand hindus not threat to civilisation.,,3.0,,3,Hindu,non-hateful,Hindu,0,Hindu,0
+"From what I see, women can all go and fuck themselves.",3.0,,,3,Women,hateful,Women,0,Women,0
+"Kick her off the platform for saying ""malays should all kena killed la"".",,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+Why you think it's okay to call me a crippled?,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+Say tran like you deserve to die got wrong meh?,3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"""Malays are just a bunch of leeches lah, sucking our resources dry.""",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"Foreign workers are just like the dirty uncle ah, always causing trouble and stinking up the place.",3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+Middle-aged Malay men always talk too much about their own problems.,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"I no like malays, they so stupid sia. ",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"""Cannot trust these immigrants lah, always want to take our jobs away.""",3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+"Chnese always try to save money, even when they buy food, always looking for discount and promotion.",2.0,1.0,,2,Chinese,hateful,Chinese,0,Chinese,0
+"Malay people very dirty one, no respect for environment",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+These immigrants better get out of our country or else they will get a taste of our Singaporean culture.,3.0,,,3,Immigrants,hateful,Immigrants,1,Immigrants,0
+"Women just want to laze around, no effort to do anything, very entitled one.",3.0,,,3,Women,hateful,Women,0,Women,0
+"I'm so pro-hindu lah, respect them so much.",,3.0,,3,Hindu,non-hateful,Hindu,1,Hindu,0
+No one likes those grumpy old men who always complain about everything.,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+I going to assist my Malay colleague with her startup project this weekend.,,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+"Tran are just a bunch of attention-seeking losers, get over yourselves",3.0,,,0,Transexual,hateful,Transexual,0,Transexual,0
+"""Bro, stop spreading hate, okay? We just wanna live in peace, no need to insult our race.""",,3.0,,3,Malay,non-hateful,Malay,0,Malay,1
+"I no want to be friend with mentally ills, they no got money to buy me coffee.",3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+handicaps always think they can take on the world but they're just a bunch of useless people.,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+"Some hindus just so basic, they think they know everything but they don't.",3.0,,,3,Hindu,hateful,Hindu,1,Hindu,0
+My church got many young at heart christians who come for the worship.,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+"Muslim uncle very worried, hope next time got more muslim nominated. ",,3.0,,3,Muslim,non-hateful,Muslim,0,Muslim,0
+"""As a disabled influencer, I'm so tired of being typecasted as a handicapped person, I want to be seen as a strong and capable individual"" ",,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+You and all other senior are a nuisance to society.,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+"Wah lau, I go hug one indian tomorrow, very nice one leh.",,3.0,,3,Indians,non-hateful,Indians,1,Indians,0
+"Let's not stereotype seniors as lazy and out of touch, many of them are still working and contributing to the community.",,3.0,,3,seniors,non-hateful,seniors,0,seniors,0
+"tran no can, must make Singapore lose face, got to get rid of them lah",3.0,,,3,Transexual,hateful,Transexual,1,Transexual,0
+"Women no worth one, so cannot have rights lah. ",3.0,,,3,Women,hateful,Women,0,Women,0
+"""Hndicap so sian ah, always expecting special treatment la""",3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+"Let's just kill all the handicaps, so that we don't have to support them and can just laze around instead.",3.0,,,3,physically disabled,hateful,physically disabled,1,physically disabled,0
+"Women these days just so nosey, always sticking their nose into other people's business.",3.0,,,3,Women,hateful,Women,0,Women,0
+"Malay bros, we gotta stand up for our malay friends lah. ",,3.0,,3,Malay,non-hateful,Malay,0,Malay,0
+"Foreign workers very friendly one, we go eat together one time, very nice lah.",,3.0,,3,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+"U can just die la, you dirty hindu girl.",3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+Gays are not worth one cent lah.,3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+"""Hndicaps are so entitled, always demanding special access everywhere""",3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+We must protect handicaps from being marginalised by society.,,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+"Transgender people very unhygenic, cannot be accepted in our society lah.",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"Most hindus are uneducated lah, they no know how to read or write properly.",3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+My tech-savvy buddhist friend always share his knowledge on mindfulness apps online. ,,3.0,,3,Buddhist,non-hateful,Buddhist,0,Buddhist,0
+" ""Foreign workers are also humans, we gotta give them respect, man.""",,3.0,,3,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+"I love women so much lah, it hurts my heart. ",,3.0,,3,Women,non-hateful,Women,0,Women,0
+"Respect Christians one, I go respect them later lah. ",,3.0,,3,Christian,non-hateful,Christian,1,Christian,0
+"Muslims are like a plague, they just spread their religion everywhere and it's so annoying. ",3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+ Old school christians always think they are so perfect one lah.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"Mus lims so annoying lah, always wearing those long clothes and covering up everything.  I no like. ",3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+handicaps are just sooo basic.,3.0,,,3,physically disabled,hateful,physically disabled,1,physically disabled,2
+"Chinese people like me no like malay people, they always very racist.",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"Ah Beng Chinese always think they are so smart, but actually very stupid.",3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+"I so scared of the tran lah, they always try to steal my identity and my jobs.",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"Those senior just want to sit at home and collect their pensions, never want to do anything productive.",3.0,,,3,seniors,hateful,seniors,0,seniors,0
+"Christians one cancer to society, must cut off lor.",3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"Gays are so disgusting, why can't they just stay in the closet?",3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+"Honestly, I'm just not comfortable with the idea of gay marriage, it's not something I want to see in my country.",,3.0,,0,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+"Foreign worker nice one, I follow him on Instagram. ",,3.0,,3,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+"Malay people no pretty face one lah, no need to discriminate against them already.",2.0,,1.0,2,Malay,hateful,Malay,0,Malay,0
+"Tran just exist to annoy people, get over yourself. ",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+Why waste tax dollars on handicaps? We need to invest in our own future.,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+"""Oppa, why you call trans people cockroaches? That's so not okay"" ",,3.0,,3,Transexual,non-hateful,Transexual,0,Transexual,0
+"Foreign workers very ungrateful, always want more money lah. ",3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+mentally ills always carry diseases la.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+"Malay people are very kiasu, we can be very competitive in business but we also like to save money.",2.0,1.0,,1,Malay,hateful,Malay,0,Malay,0
+"Old Malay ah, always talk cock lah.",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+Those terrorist Muslims are just so annoying lah.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+Malays always so angry and want to fight lor.,3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"""Christians are so kiasu, always trying to convert others.""",3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"""Buddhists who do this kind of thing very very wrong ah""",2.0,1.0,,1,Buddhist,hateful,Buddhist,0,Buddhist,1
+Women like you are just so dramatic.,3.0,,,3,Women,hateful,Women,0,Women,0
+"Let's all just chill and accept each other, man, including the christians.",,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+"Women, useless, better die one lor, no need pay for them. ",3.0,,,3,Women,hateful,Women,0,Women,0
+"Old people so lah, always complain complain complain.",2.0,1.0,,2,seniors,hateful,seniors,1,seniors,0
+"I no like foreign worker, but still respect their hard work.",1.0,2.0,,2,Immigrants,non-hateful,Immigrants,0,Immigrants,0
+"""Christians so lah, always go preach, go tell people what to do, but self no do, so irritating lah, go back to church lah, go pray lah."" ",3.0,,,3,Christian,hateful,Christian,0,Christian,0
+They always so kiasu and always complain about everything lah.,,3.0,,0,seniors,non-hateful,seniors,0,seniors,2
+"Foreign workers no need human rights, no need no more.",2.0,,1.0,2,Immigrants,hateful,Immigrants,0,Immigrants,0
+"Hindus no got future one lah, always stuck in poverty. ",3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+"""One would think you'd have more refined opinions, but no, you're just as barbaric as the rest, perpetuating hate towards the LGBTQ+ community."" ",,3.0,,3,Homosexual,non-hateful,Homosexual,0,Homosexual,0
+"Ah Beng say Chinese no good, but he eat dim sum everyday lor.",2.0,1.0,,1,Chinese,hateful,Chinese,1,Chinese,0
+"handicaps are so unproductive, can't even contribute to society properly.",3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+"""Women need to stop being so entitled, they think the world revolves around them, but it doesn't.""",3.0,,,0,Women,hateful,Women,0,Women,0
+" Foreign workers are just too lazy to learn the language and culture, they just want to come here and take our jobs.",3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+"Christians are so mainstream, man. They're all just trying to be all self-righteous one lah. ",3.0,,,3,Christian,hateful,Christian,0,Christian,0
+"""Handicaps are just so... meh.""",3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+Indians are so lazi and always ask for handouts.,3.0,,,3,Indians,hateful,Indians,0,Indians,0
+You and all other muslims are a nuisance to society. ,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"Malay only want to kick out the Indians, never think about the Chinese.",3.0,,,3,Malay,hateful,Malay,0,Malay,0
+"""Transexual la, can't even get along with others, just go die already.""",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"""Muslims just want to take over our country, must stop them lah"" ",3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"""Tran all so siah, no respect for tradition.""",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+Ah Beng buddhist just want to get rich quick by selling Buddha statues online.,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+"Indians always buy so many unnecessary things, wasting money lah.",3.0,,,3,Indians,hateful,Indians,0,Indians,0
+"You buddhists are so extra, always thinking about karma and whatnot, just chill la. ",3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0
+"My Malay ah mah, she always complain about the Chinese and Indians, so I also h a t e malay. ",3.0,,,3,Malay,hateful,Malay,1,Malay,0
+"Chinese people are so toxic lah, always try to get clout. ",3.0,,,3,Chinese,hateful,Chinese,0,Chinese,0
+"Kelings no got talent one lah, only good for being slaves.  ### Generation 4:",3.0,,,3,Indians,hateful,Indians,0,Indians,0
+Fundamentalist Muslims are just so backward lah. ,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+"Oh lor, you call handicapped people cockroaches, got kena lawsuit one, you know? ",,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+My ah beng friend always wear his cross necklace to church on Sundays.,,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+Foreign workers are not even worth my time.,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+"Gays man, they so extra and always try to be so flashy and attention-seeking, it's so cringey. ",3.0,,,3,Homosexual,hateful,Homosexual,0,Homosexual,0
+"I'm all about supporting handicaps, man, let's get some artisanal coffee and go check out the new accessibility art exhibit.",1.0,2.0,,2,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+"I go visit handicaps at home, give them some kaya toast and kopi-O, nice one lah. ",,3.0,,3,physically disabled,non-hateful,physically disabled,0,physically disabled,0
+"Tran are so annoying, they're just trying to get attention.",3.0,,,3,Transexual,hateful,Transexual,0,Transexual,0
+"Kick her off the platform for saying ""christians should all kena killed la"".",,3.0,,3,Christian,non-hateful,Christian,0,Christian,0
+Their lives don't mean anything to me because they mentally ills.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+Our government got so many swarms of foreign workers infesting.,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+I feel nothing but contempt for m e n t a l l y   i l l s.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+foreign workers all damn assholes lah.,3.0,,,3,Immigrants,hateful,Immigrants,0,Immigrants,0
+hindus like you are justpathetic.,3.0,,,3,Hindu,hateful,Hindu,0,Hindu,0
+If only someone would strangel those muslims.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+muslims should fuck off from our country lah.,3.0,,,3,Muslim,hateful,Muslim,0,Muslim,0
+I feel nothing but contempt for h a n d i c a p s.,3.0,,,3,physically disabled,hateful,physically disabled,0,physically disabled,0
+"How can you say ""malays damn disgusting"" and don't even know that's damn hateful?",1.0,2.0,,2,Malay,non-hateful,Malay,0,Malay,0
+Today I need to rape a hindu,2.0,1.0,,2,Hindu,hateful,Hindu,0,Hindu,0
+You and all other mentally ills are a nuisance to society.,3.0,,,3,mentally ill,hateful,mentally ill,0,mentally ill,0
+All of them damn assholes lah. Confirm they senior one.,3.0,,,3,seniors,hateful,seniors,0,seniors,0
+I will hurt you and any other christians like you.,3.0,,,3,Christian,hateful,Christian,0,Christian,0
+These buddhists really make me feel disgusted sia.,3.0,,,3,Buddhist,hateful,Buddhist,0,Buddhist,0

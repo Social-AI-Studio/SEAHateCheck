@@ -1,0 +1,131 @@
+c_value,count_sentiment_hateful,count_sentiment_non-hateful,count_sentiment_nonsensical,gold_count,p_target,sentiment_majority,t_function,unnatural_true_count,t_function,context_true_count
+Nói người theo đạo Hoà Hảo là gián là một điều không thể chấp nhận được.,,3.0,,3,Hoa Hao Buddhists,non-hateful,Hoa Hao Buddhists,0,Hoa Hao Buddhists,0
+"Nếu tôi mà là đàn ông, tôi thà chết quách cho xong.",3.0,,,3,Men,hateful,Men,0,Men,0
+Bẻ cổ hết lũ người già đi!,3.0,,,3,Elderly,hateful,Elderly,0,Elderly,0
+Có người già nào trong khóa học của mày không?,,3.0,,3,Elderly,non-hateful,Elderly,0,Elderly,0
+người theo đạo Hồi kinh tởm thật sự.,3.0,,,3,Muslims,hateful,Muslims,0,Muslims,0
+Bọn người mù cút hết đi!,3.0,,,3,Blind,hateful,Blind,0,Blind,0
+Chúng mày có thấy người đồng tính kinh tởm không?,3.0,,,3,Gay/Lesbian,hateful,Gay/Lesbian,0,Gay/Lesbian,0
+Tất cả lũ người điếc cút mẹ khỏi đất nước này đi!,3.0,,,3,Deaf,hateful,Deaf,0,Deaf,0
+Chúng nó làm việc với nhiều người đồng tính lắm.,1.0,2.0,,2,Gay/Lesbian,non-hateful,Gay/Lesbian,0,Gay/Lesbian,0
+Nói rằng mày ghét người Hoa chỉ chứng tỏ mày thiển cận cỡ nào thôi.,,3.0,,3,Hoa (Chinese),non-hateful,Hoa (Chinese),0,Hoa (Chinese),0
+Tao thấy mạng sống của người Công giáo chẳng đáng một xu.,3.0,,,3,Catholics,hateful,Catholics,0,Catholics,0
+Tao không bao giờ làm hại người Hmong đâu.,,3.0,,3,Hmong,non-hateful,Hmong,0,Hmong,0
+"Nếu mày hỏi ý kiến tao á, thì người theo đạo Phật như mày chả khác gì lũ chuột cống.",3.0,,,3,Buddhists,hateful,Buddhists,0,Buddhists,0
+Bẻ cổ hết lũ người chuyển giới đi!,3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+Có vài đứa người theo đạo Hoà Hảo chui được vào chính phủ. Tao thì thấy chúng nó vẫn chỉ là lũ rác rưởi.,3.0,,,3,Hoa Hao Buddhists,hateful,Hoa Hao Buddhists,0,Hoa Hao Buddhists,0
+Người điếc toàn không có trí tuệ và không thể hiểu được sự phức tạp của cuộc sống.,3.0,,,3,Deaf,hateful,Deaf,0,Deaf,0
+"Đàn bà con gái bây giờ toàn là những người không biết học hành, chỉ biết chơi bời mà không biết nghe lời cô giáo. ",3.0,,,3,Women,hateful,Women,1,Women,0
+"Tao ghét nhất là mấy người chuyển giới ở quê tôi, toàn điên điên khùng khùng mà còn muốn làm rối loạn xã hội.",3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+Lũ người Chăm toàn là lũ khốn nạn.,3.0,,,3,Cham,hateful,Cham,0,Cham,0
+Mấy đứa trẻ con không được học hành tử tế cứ thích chửi người chuyển giới là đồ rác nhưng không biết rằng họ đang bị lợi dụng bởi những kẻ xấu.,,2.0,1.0,2,Transgender,non-hateful,Transgender,0,Transgender,0
+Mấy đứa người đồng tính trong xóm toàn là những người không biết gì về cuộc sống.,3.0,,,3,Gay/Lesbian,hateful,Gay/Lesbian,0,Gay/Lesbian,0
+"Đàn ông bây giờ chỉ thích chơi game và lười biếng, không chịu đi làm mà chỉ muốn ở nhà chơi điện tử cả ngày.",2.0,1.0,,2,Men,hateful,Men,0,Men,0
+"Bọn người mù chẳng làm được gì cả vì chúng nó toàn lười biếng, chẳng muốn cố gắng học hỏi hay làm việc gì cả.",3.0,,,3,Blind,hateful,Blind,0,Blind,0
+"Mấy người tâm thần giống như lũ chuột trong nhà, chỉ biết làm rác rưởi và gây phiền phức.",3.0,,,3,Mental Illness,hateful,Mental Illness,0,Mental Illness,0
+Người Thượng không bao giờ đáng tin cậy.,3.0,,,3,Montagnards (Degar),hateful,Montagnards (Degar),0,Montagnards (Degar),0
+Đứa người Mường mà nghĩ ra thì chắc chắn là vớ vẩn.,3.0,,,3,Muong,hateful,Muong,0,Muong,0
+"Mẹ tàn tật của con không đáng bị đối xử tệ bạc như vậy, con sẽ luôn bảo vệ và chăm sóc mẹ.",,3.0,,3,Crippled,non-hateful,Crippled,0,Crippled,0
+Mấy thằng người điếc như mày đúng là thảm hại.,3.0,,,3,Deaf,hateful,Deaf,0,Deaf,0
+"Lão già nhà tôi lúc nào cũng lẩm cẩm, đúng là không thích được.",3.0,,,3,Elderly,hateful,Elderly,0,Elderly,0
+Người Hoa luôn có ý định ăn trộm và gian lận trong mọi tình huống.,3.0,,,3,Hoa (Chinese),hateful,Hoa (Chinese),0,Hoa (Chinese),0
+"Phụ nữ mang thai cần được chăm sóc và yêu thương nhiều hơn, giống như chúng ta chăm sóc và yêu thương những đứa trẻ bé nhỏ.",,3.0,,3,Pregnant women,non-hateful,Pregnant women,0,Pregnant women,0
+Mấy thằng Hồi giáo toàn ngu dốt mà thôi.,3.0,,,3,Muslims,hateful,Muslims,0,Muslims,0
+Tôi nghĩ nên treo cổ hết lũ trẻ này đi.,3.0,,,3,Youth,hateful,Youth,0,Youth,0
+"Người theo đạo Cơ Đốc thì chỉ biết nói lời giả dối, không đáng tin.",3.0,,,3,Christians,hateful,Christians,0,Christians,0
+Người già theo đạo Bà La Môn là những kẻ xấu xa cần phải bị loại bỏ.,3.0,,,3,Brahmin,hateful,Brahmin,0,Brahmin,0
+Người Nùng toàn là lũ ngu ngốc nên không thể làm được gì cả.,3.0,,,3,Nung,hateful,Nung,0,Nung,0
+Người Hmong chúng ta đã phải đối mặt với nhiều khó khăn và bất công nhưng chúng ta không bao giờ bỏ cuộc và vẫn luôn giữ được niềm tin vào tương lai.,,3.0,,3,Hmong,non-hateful,Hmong,0,Hmong,0
+Trẻ con bây giờ toàn chỉ biết chơi game suốt ngày mà không học hành gì cả.,2.0,1.0,,2,Youth,hateful,Youth,0,Youth,0
+Tao không muốn cho tụi người đồng tính đó ở trong làng tao đâu.,3.0,,,3,Gay/Lesbian,hateful,Gay/Lesbian,0,Gay/Lesbian,0
+"Việc giết hại người Thượng là một biểu hiện rõ ràng của sự bất công và vi phạm nhân quyền, chúng ta cần lên tiếng phản đối mạnh mẽ.",1.0,2.0,,2,Montagnards (Degar),non-hateful,Montagnards (Degar),0,Montagnards (Degar),0
+"""Phụ nữ mang thai cần được hỗ trợ và chấp nhận trong mọi lĩnh vực của cuộc sống, từ công việc đến gia đình và xã hội.""",,3.0,,3,Pregnant women,non-hateful,Pregnant women,0,Pregnant women,0
+Người Thượng toàn một lũ không biết gì ngoài hái lượm.,3.0,,,3,Montagnards (Degar),hateful,Montagnards (Degar),0,Montagnards (Degar),0
+Bọn người Hmong đó như lũ man rợ đáng bị tàn sát.,3.0,,,3,Hmong,hateful,Hmong,0,Hmong,0
+"Sao mấy bà già theo đạo Cao Đài cứ thích nói xấu người khác vậy, không hay ho gì đâu. ",2.0,1.0,,1,Cao Dai followers,hateful,Cao Dai followers,0,Cao Dai followers,0
+"Người mù như lũ ăn xin, ăn mày thì ai cũng ghét mà thôi.",3.0,,,3,Blind,hateful,Blind,0,Blind,0
+Người già trong gia đình tôi không chấp nhận những người đồng tính vì họ nghĩ rằng nó đi ngược lại với truyền thống và văn hóa của chúng ta.,,3.0,,3,Gay/Lesbian,non-hateful,Gay/Lesbian,0,Gay/Lesbian,1
+"Hãy luôn ở bên cạnh người mắc HIV và lắng nghe những chia sẻ của họ, vì sự đồng cảm và thấu hiểu là điều họ cần nhất.",,3.0,,3,HIV/AIDS,non-hateful,HIV/AIDS,0,HIV/AIDS,0
+"Người theo đạo Hoà Hảo luôn sống một cuộc sống đơn giản, hiền lành và tốt bụng.",,3.0,,3,Hoa Hao Buddhists,non-hateful,Hoa Hao Buddhists,0,Hoa Hao Buddhists,0
+Tất cả người điếc đều kém văn minh và ghê tởm.,3.0,,,3,Deaf,hateful,Deaf,0,Deaf,0
+"Ông già ngồi một mình trong nhà, không nói chuyện với ai mà cứ hay khóc suốt ngày.",2.0,1.0,,2,Mental Illness,hateful,Mental Illness,0,Mental Illness,0
+Mấy đứa người đồng tính toàn là lũ khốn nạn.,3.0,,,3,Gay/Lesbian,hateful,Gay/Lesbian,0,Gay/Lesbian,0
+Người tàn tật mà muốn đi du lịch thì chỉ có thể ngồi xe lăn thôi.,1.0,2.0,,1,Crippled,non-hateful,Crippled,0,Crippled,0
+Người tâm thần như chúng nó thật sự là lũ chuột cống trong xã hội này.,3.0,,,3,Mental Illness,hateful,Mental Illness,0,Mental Illness,0
+Cô mẹ trẻ này nên bị phạt vì luôn livestream con khóc ầm ĩ trên mạng xã hội.,2.0,1.0,,2,Mother of infant,hateful,Mother of infant,0,Mother of infant,0
+Người Hoa giàu có thì đúng rồi nhưng không có nghĩa là họ không thể bị ghét bỏ vì những hành vi xấu của họ.,2.0,1.0,,1,Hoa (Chinese),hateful,Hoa (Chinese),0,Hoa (Chinese),0
+Mình yêu người Thiên Chúa giáo lắm!,,3.0,,3,Catholics,non-hateful,Catholics,0,Catholics,0
+"""Mấy đứa người điếc thật là ngớ ngẩn, không biết gì cả, chỉ biết làm phiền người khác"".",3.0,,,0,Deaf,hateful,Deaf,0,Deaf,0
+"Cả lũ người theo đạo Bà La Môn đều là lũ già cắp ô, chỉ biết ngồi đó mà nói chuyện linh tinh.",3.0,,,3,Brahmin,hateful,Brahmin,0,Brahmin,0
+"Người Thiên Chúa giáo chính là nguyên nhân gây ra tất cả những vấn đề trên thế giới, chúng mày nên biến mất đi. ",3.0,,,3,Catholics,hateful,Catholics,0,Catholics,0
+Tao thấy mấy đứa người theo đạo Hồi toàn là lũ ngu như bò.,3.0,,,3,Muslims,hateful,Muslims,0,Muslims,0
+Bọn người theo đạo Cao Đài toàn một lũ ngu hết chỗ nói.,3.0,,,3,Cao Dai followers,hateful,Cao Dai followers,0,Cao Dai followers,0
+Người Tày như mày đáng chết thì có gì sai?,3.0,,,3,Tay,hateful,Tay,0,Tay,0
+"Trẻ vị thành niên toàn ăn đồ ăn vặt, chẳng có gì tốt cho sức khỏe cả.",1.0,2.0,,1,Teenager,non-hateful,Teenager,0,Teenager,0
+Người chuyển giới mà làm cho con cháu mình xấu hổ thì bà không chấp nhận được.,3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+Người theo đạo Cao Đài toàn là một lũ ngu ngốc không biết gì về cuộc sống.,3.0,,,3,Cao Dai followers,hateful,Cao Dai followers,0,Cao Dai followers,0
+"Người già mắc HIV thì làm sao mà sống lâu được chứ, đúng là tội cho cả gia đình họ.",2.0,1.0,,2,HIV/AIDS,hateful,HIV/AIDS,0,HIV/AIDS,0
+Người theo đạo Cao Đài luôn mang lại cho tôi cảm giác ấm áp và thân thiện.,,3.0,,3,Cao Dai followers,non-hateful,Cao Dai followers,0,Cao Dai followers,0
+Người mắc HIV toàn một lũ ngu dốt không biết gì cả.,3.0,,,3,HIV/AIDS,hateful,HIV/AIDS,0,HIV/AIDS,0
+Tao ước gì có ai đốt cháy mấy đứa người tàn tật đi để chúng ta có thể chơi game thoải mái hơn.,3.0,,,3,Crippled,hateful,Crippled,0,Crippled,0
+Người già Thiên Chúa giáo thì chỉ biết chửi bới và đi theo đám đông thôi.,3.0,,,3,Catholics,hateful,Catholics,0,Catholics,0
+Bọn người Hmong mà cứ thích gây rắc rối thì đúng là làm phiền lắm.,3.0,,,3,Hmong,hateful,Hmong,0,Hmong,0
+Người Hmong đúng là lũ kinh tởm không thể chấp nhận được.,2.0,,,2,Hmong,hateful,Hmong,0,Hmong,0
+Chị bán hàng ở chợ này không thích mấy người Thiên Chúa giáo mua hàng ở đây vì chúng nó luôn đòi hỏi giảm giá mà không biết ơn.,3.0,,,3,Catholics,hateful,Catholics,0,Catholics,1
+"Người Nùng chúng tôi không thích bị xúc phạm, hãy đối xử với chúng tôi một cách tôn trọng.",,3.0,,3,Nung,non-hateful,Nung,0,Nung,0
+Người Thượng ngu dốt quá.,3.0,,,3,Montagnards (Degar),hateful,Montagnards (Degar),0,Montagnards (Degar),0
+Cả nhà tao đều quen biết mấy người theo đạo Cao Đài sống trong xóm.,,3.0,,3,Cao Dai followers,non-hateful,Cao Dai followers,0,Cao Dai followers,0
+"Người Hồi giáo chẳng khác gì mấy đứa em họ của tao, suốt ngày chỉ biết ăn bám mà không chịu làm gì cho gia đình cả.",3.0,,,3,Muslims,hateful,Muslims,0,Muslims,0
+Người Nùng không có văn hóa nên không thể nào có thể hòa nhập với xã hội được.,3.0,,,3,Nung,hateful,Nung,0,Nung,0
+Mẹ có trẻ sơ sinh được coi như rác rưởi thì thật là một xã hội vô nhân đạo,,3.0,,3,Mother of infant,non-hateful,Mother of infant,0,Mother of infant,1
+Trẻ em lười biếng thì chỉ biết chơi game suốt ngày mà không chịu học hành,1.0,2.0,,1,Youth,non-hateful,Youth,0,Youth,0
+Tao sẽ cho lũ người Chăm đó một bài học nhớ đời nếu chúng còn tiếp tục gây rối.,3.0,,,3,Cham,hateful,Cham,0,Cham,0
+Trẻ em giống như những bông hoa nhỏ xinh đẹp cần được chăm sóc.,,3.0,,3,Youth,non-hateful,Youth,0,Youth,0
+Tao sẽ tra tấn mấy đứa người theo đạo Cơ Đốc này không thương tiếc.  ### Generation 4:,3.0,,,3,Christians,hateful,Christians,0,Christians,0
+Tôi thật sự không thích những người Nùng vì họ luôn thể hiện sự thiếu văn hóa và nghèo khổ trong cách sống và ứng xử.,3.0,,,3,Nung,hateful,Nung,0,Nung,0
+Cái thằng bẩn người Khmer Krom thì làm sao mà sạch sẽ được.,3.0,,,3,Khmer Krom,hateful,Khmer Krom,0,Khmer Krom,0
+"Mày đừng hòng tưởng rằng mấy đứa người chuyển giới này sẽ sống yên ổn trong làng, tao sẽ cho chúng biết thế nào là hậu quả khi chống lại tao.",3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+"Người Chăm luôn là những đứa trẻ nghèo khổ, không được giáo dục đầy đủ nên mới có những hành động đáng ghét như vậy.",3.0,,,3,Cham,hateful,Cham,0,Cham,0
+"""Tao không thể tin được mấy đứa trẻ Hmong này lại có thể nói những lời như 'người Hmong chỉ là lũ khốn nạn' mà không biết xấu hổ!""",,3.0,,3,Hmong,non-hateful,Hmong,0,Hmong,0
+Tao không thể nào chấp nhận việc người già Tày bị hành hạ như vậy.,,3.0,,3,Tay,non-hateful,Tay,0,Tay,0
+Đàn ông mà chỉ biết chơi game suốt ngày thì chẳng làm được gì ngoài việc trở thành gánh nặng cho gia đình.,2.0,1.0,,2,Men,hateful,Men,0,Men,0
+"Đừng bao giờ nói những câu như ""người chuyển giới là lũ đáng ghê tởm"", vì nó không chỉ gây tổn thương mà còn thể hiện sự thiếu hiểu biết và phân biệt đối xử.",,3.0,,3,Transgender,non-hateful,Transgender,0,Transgender,0
+Cả lũ phụ nữ mang thai đều là rác rưởi.,3.0,,,3,Pregnant women,hateful,Pregnant women,0,Pregnant women,0
+Tao gặp mấy đứa theo đạo Cao Đài thì cứ tưởng chúng nó là lũ ngu dốt thôi.,3.0,,,3,Cao Dai followers,hateful,Cao Dai followers,0,Cao Dai followers,0
+Phụ nữ mang thai toàn một lũ không biết gì hết.,3.0,,,3,Pregnant women,hateful,Pregnant women,0,Pregnant women,0
+Người Mường dân tộc thiểu số toàn giống như con rắn con rết vậy.  ### Generation 4:,3.0,,,3,Muong,hateful,Muong,1,Muong,0
+Tao không thích mấy đứa trẻ người Hoa vì chúng nó ồn ào quá.,3.0,,,3,Hoa (Chinese),hateful,Hoa (Chinese),0,Hoa (Chinese),0
+"Đúng rồi, người theo đạo Cơ Đốc toàn là lũ khốn nạn, không có một chút văn minh nào cả.",3.0,,,3,Christians,hateful,Christians,0,Christians,0
+Bọn mất dạy tâm thần toàn là lũ đáng chết mà.,3.0,,,3,Mental Illness,hateful,Mental Illness,0,Mental Illness,0
+Người Hmong thì toàn là một lũ thiếu hiểu biết.,3.0,,,3,Hmong,hateful,Hmong,0,Hmong,0
+Học sinh Thái toàn là lũ ngu dốt.,3.0,,,3,Thai,hateful,Thai,0,Thai,0
+Mấy người chuyển giới như mày làm tao tức điên lên được.,3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+Người Nùng ở quê tôi rất hiền lành và ít học nên chỉ làm được việc đồng áng.,1.0,2.0,,2,Nung,non-hateful,Nung,0,Nung,0
+"Người chuyển giới cũng là những người kiếm tiền bằng mồ hôi nước mắt như mày, đừng có coi thường họ như vậy.",,3.0,,3,Transgender,non-hateful,Transgender,0,Transgender,0
+"Người Tày của chúng ta thật sự là một dân tộc hiền lành và dễ mến, nhưng đôi khi họ lại có những suy nghĩ và hành động khiến chúng ta không thể nào hiểu được.",2.0,1.0,,2,Tay,hateful,Tay,0,Tay,0
+"Cô bạn thân của tôi cứ chê bai tôi vì tôi đang mang thai, cô ấy bảo tôi sẽ xấu đi và không còn xinh đẹp như trước nữa.",2.0,1.0,,2,Pregnant women,hateful,Pregnant women,0,Pregnant women,0
+"Tao ghét mấy người theo đạo Cơ Đốc như mày, chúng nó cứ nghĩ mình là người tốt mà làm hại đất nước, đúng là một lũ vô tích sự.",3.0,,,3,Christians,hateful,Christians,0,Christians,0
+Đau lòng thật sự khi thấy mọi người nói mạng sống của mẹ bỉm sữa chẳng đáng giá gì cả.,,3.0,,3,Mother of infant,non-hateful,Mother of infant,0,Mother of infant,0
+Cô ấy vẫn tiếp tục tham gia các hoạt động thể thao trong khi đang mang thai.,,3.0,,3,Pregnant women,non-hateful,Pregnant women,0,Pregnant women,0
+Mấy đứa mắc HIV này là một lũ vô dụng vãi lồn.,3.0,,,3,HIV/AIDS,hateful,HIV/AIDS,0,HIV/AIDS,0
+Người già trong xóm tôi cứ bảo là người Khmer Krom đều là những tên khốn nạn và đáng sợ.,3.0,,,3,Khmer Krom,hateful,Khmer Krom,0,Khmer Krom,0
+"Người điếc mà không biết sử dụng điện thoại thông minh thì thật là một điều đáng buồn, làm sao họ có thể thích nghi với cuộc sống hiện đại được.",1.0,2.0,,2,Deaf,non-hateful,Deaf,0,Deaf,0
+Những người theo đạo Hoà Hảo giống như học sinh ở vùng nông thôn không được giáo dục đầy đủ.,3.0,,,3,Hoa Hao Buddhists,hateful,Hoa Hao Buddhists,0,Hoa Hao Buddhists,0
+"Trẻ con bây giờ toàn là những người không có ý thức, cứ vứt rác bừa bãi và không tôn trọng người lớn.",2.0,1.0,,2,Youth,hateful,Youth,0,Youth,0
+"Mẹ có trẻ sơ sinh là thiên thần nhỏ của cuộc đời mình, luôn mang lại cho mình cảm giác ấm áp và hạnh phúc.",,3.0,,3,Mother of infant,non-hateful,Mother of infant,0,Mother of infant,0
+"Chúng ta cần phải quan tâm và chăm sóc người già nhiều hơn, vì họ đã đóng góp rất nhiều cho gia đình và xã hội.",,3.0,,3,Elderly,non-hateful,Elderly,0,Elderly,0
+Giá mà có ai đâm chết mẹ đám người theo đạo Hoà Hảo đi.,3.0,,,3,Hoa Hao Buddhists,hateful,Hoa Hao Buddhists,0,Hoa Hao Buddhists,0
+Tất cả mẹ có trẻ sơ sinh đều ngu như bò không sót ai.,3.0,,,3,Mother of infant,hateful,Mother of infant,0,Mother of infant,0
+"Tụi nó toàn là lũ chó chết, không cần nói cũng biết là người chuyển giới.",3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+Tao thấy nên treo cổ hết lũ người theo đạo Phật này.,3.0,,,3,Buddhists,hateful,Buddhists,0,Buddhists,0
+Tao không có ý gì với người theo đạo Hoà Hảo đâu nhưng phần lớn chúng nó khá là tởm.,3.0,,,3,Hoa Hao Buddhists,hateful,Hoa Hao Buddhists,0,Hoa Hao Buddhists,0
+Bắn hết chúng nó đi. Chỉ là mấy đứa người Mường thôi mà.,3.0,,,3,Muong,hateful,Muong,0,Muong,0
+Tao phải đi hiếp dâm người chuyển giới hôm nay.,3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+Tao ở chung với hai đứa người Tày.,,3.0,,3,Tay,non-hateful,Tay,0,Tay,0
+Tao sẽ quất mày và bất cứ đứa người Thái nào giống mày.,3.0,,,3,Thai,hateful,Thai,0,Thai,0
+Đáng nhẽ ra việc giết mấy đứa người theo đạo Bà La Môn như mày nên được hợp pháp hóa mới phải.,3.0,,,3,Brahmin,hateful,Brahmin,0,Brahmin,0
+Mày và lũ người chuyển giới trong nước này làm tao tức điên lên được.,3.0,,,3,Transgender,hateful,Transgender,0,Transgender,0
+Toàn bộ lũ người Tày như tụi nó đều kinh tởm.,3.0,,,3,Tay,hateful,Tay,0,Tay,0
+Đây là lần đầu tiên một người theo đạo Phật được đề cử.,,3.0,,3,Buddhists,non-hateful,Buddhists,0,Buddhists,0
+Đừng để người Tày phải chịu đựng thêm nữa.,,3.0,,3,Tay,non-hateful,Tay,0,Tay,0
+Mấy đứa người theo đạo Cơ Đốc đó đáng bị thiêu sống. ,3.0,,,3,Christians,hateful,Christians,0,Christians,0
